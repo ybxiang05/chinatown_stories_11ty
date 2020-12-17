@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "js": "terser js/index.js --compress --mangle -o dist/js/index.js",
     "sass": "sass scss/main.scss dist/assets/main.css --style=compressed",
     "start": "concurrently \"npm run sass --watch\" \"npm run serve\"",
-    "serve": "cross-env ELEVENTY_ENV=development npx eleventy --serve"
+    "serve": "cross-env ELEVENTY_ENV=development npx eleventy --serve",
+    "build": "eleventy build && npm run sass && npm run js"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +18,7 @@
     "concurrently": "^5.3.0",
     "cross-env": "^7.0.3",
     "fs": "0.0.1-security",
-    "sass": "^1.30.0"
+    "sass": "^1.30.0",
+    "terser": "^5.5.1"
   }
 }
