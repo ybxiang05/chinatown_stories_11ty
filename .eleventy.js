@@ -2,7 +2,7 @@ const fs = require('fs');
 
 module.exports = function(config) {
   // Passthrough copy
-  config.addPassthroughCopy('src/images');
+  config.addPassthroughCopy('static');
 
   // 404
   config.setBrowserSyncConfig({
