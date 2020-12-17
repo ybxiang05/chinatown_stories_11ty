@@ -1,4 +1,5 @@
 const fs = require('fs');
+const util = require('util');
 
 module.exports = function(config) {
   // Passthrough copy
@@ -17,6 +18,18 @@ module.exports = function(config) {
         });
       }
     }
+  });
+
+  // Filters
+  config.addFilter('console', function (value) {
+    return util.inspect(value);
+  });
+
+  // Collections
+  config.addCollection("interviews", function (collection) {
+    return [
+      ...collection.getFilteredByTag("interviews")
+    ].sort(function (a, b) { return a.data.order - b.data.order; });
   });
 
   return {
