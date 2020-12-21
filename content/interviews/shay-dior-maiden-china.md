@@ -1,16 +1,15 @@
 ---
-
 title: Shay Dior & Maiden China
 subtitle: House of Rice
 order: 13
 blurb: |
-"Shay Dior (Van Dang) is the founding House Mother of the House of Rice, an all Asian drag family that has operated out of Chinatown since late 2019. Shay is a seasoned performer known for their stunning visuals and consistent advocacy for Asian visibility in queer communities. Shay has lead an incredible drag career performing locally and internationally, and is the founder and co-producer of Ricecake, a queer and Asian dance party in Vancouver.
+  "Shay Dior (Van Dang) is the founding House Mother of the House of Rice, an all Asian drag family that has operated out of Chinatown since late 2019. Shay is a seasoned performer known for their stunning visuals and consistent advocacy for Asian visibility in queer communities. Shay has lead an incredible drag career performing locally and internationally, and is the founder and co-producer of Ricecake, a queer and Asian dance party in Vancouver.
 
-Queen Maiden China (Kendell Yan) is a drag performer in the House of Rice. As a mixed-race artist, Maiden explores her relationship to her Chinese heritage in nuanced and provocative ways. Her work is a constant renegotiation of what it means to be Chinese, which asks the viewer to question the role of tradition in one’s embodiment of culture.
+  Queen Maiden China (Kendell Yan) is a drag performer in the House of Rice. As a mixed-race artist, Maiden explores her relationship to her Chinese heritage in nuanced and provocative ways. Her work is a constant renegotiation of what it means to be Chinese, which asks the viewer to question the role of tradition in one’s embodiment of culture.
 
-Shay and Maiden sit down with Chinatown Today to chat about the role of drag in the fight for social justice, how art helps them recover their otherwise alienated identities, and what it’s like to reclaim Chinatown as queer people of colour.
+  Shay and Maiden sit down with Chinatown Today to chat about the role of drag in the fight for social justice, how art helps them recover their otherwise alienated identities, and what it’s like to reclaim Chinatown as queer people of colour.
 
-You can follow Shay and Maiden on Instagram @thatshaydior // @queenmaidenchina."
+  You can follow Shay and Maiden on Instagram @thatshaydior // @queenmaidenchina."
 
 img: ""
 ---
