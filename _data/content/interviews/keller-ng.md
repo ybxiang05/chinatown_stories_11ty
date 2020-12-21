@@ -1,0 +1,74 @@
+---
+title: Keller Ng
+subtitle: Bamboo Village
+order: 12
+blurb: "Bamboo Village is located at 135 East Pender. Identifiable by its iconically round overhead signage, walking into Bamboo Village is stepping into a dreamscape oasis illuminated by timid red paper lanterns that hide behind an overgrown forest of houseplants. Keller Ng and her husband Dixon have been curating Bamboo Village’s eclectic collection of furniture, souvenirs, and home decor for 30 years. In this interview, Keller chats with us about Chinatown’s golden period, and the ways in which Bamboo Village has had to adapt to the ever-changing demands of a shifting client demographic. Spoiler: the answer is always more houseplants. Visit Bamboo Village at www. bamboovillage.ca. You can follow Bamboo Village on Instagram @bamboovillageco."
+---
+
+<!-- <img src="bambooVillage_1of5"/> -->
+
+**CT:** What is your relationship with Chinatown?
+
+**K:** I came to Canada to marry my husband. I’ve been here for 30 years. My husband’s family has been running businesses since they arrived in Canada. During that time, a lot of immigrants from Asia ran their own businesses because, like my in-laws, they didn’t speak English and couldn’t find jobs. A lot of people of that generation would run laundromats, or chop suey restaurants, or grocery stores, to make a living and to raise a family. My in-laws first ran a grocery store in Surrey. During that time, the big stores had short hours and didn’t open on weekends or holidays, which created a golden opportunity for Asian store owners whose stores were open everyday for long hours. Growing up, my husband would finish closing up around midnight, eat dinner after closing, and wake up early the next morning for school. My in-laws never got enough sleep, but that’s how they got by. Then after a couple of years, my in-laws started businesses in Chinatown. They were the first generation to do business in Chinatown, and we are the second to carry on the business.
+
+**CT:** How long have you been working in Chinatown?
+
+**K:** I’ve been working in Chinatown for 30 years, and it’s been over 40 years for my husband.
+
+**CT:** During this time, how have you seen Chinatown change?
+
+**K:** It’s changed a lot. I came in the 90s, which was during Chinatown’s golden period, from the 1986 Expo onwards. During that period, there were a lot of immigrants from Hong Kong and Taiwan. It was around the time Hong Kong was returned to China, so a lot of people were moving here. A lot of these immigrants only brought a few suitcases with them. They needed to buy everything in Canada, so business was really good. My in-laws had a few different stores in Chinatown. They had an herbal store, a kitchenware store, and my brother-in-law ran a Chinese handicraft store. We sold whatever the immigrants needed. As time went by, the immigrant demographics changed, and international shipping became easier. The Chinese population in Vancouver diversified. In the past, if someone wanted to buy Asian groceries, they had to go to Chinatown, because that was the only choice. As the city developed, and as demand increased, it is now possible to buy Asian groceries in bigger stores, like Safeway and Superstore. There’s not a need to go to Chinatown anymore. Chinatown isn’t what it used to be during the golden period, but I think that’s part of the normal process.
+
+**CT:** Do you have a favourite memory in Chinatown?
+
+**K:** I loved Chinatown in the 90s. When people came to Chinatown, they had a purpose, and they were prepared to spend money. The stores were always packed. Stuff would sell fast as long as you had stuff to sell, and customers had to wait until the next shipment to come in to buy things they wanted. The profit margin 30 years ago was much higher than nowadays. A pound of gingko nuts 30 years ago was over \$10, but now it’s pretty much the same price. There was so much traffic, which created a very exciting atmosphere. I miss that atmosphere. It has changed.
+
+**CT:** Why do you continue to be part of the Chinatown community?
+
+**K:** We had a comfortable life during the golden period because business was good. By the time my in-laws retired, they asked us if we wanted to take over their businesses. Instead of taking over the herbal store and kitchenware store, we decided to run a furniture and handicrafts store. Even though business isn’t as good as it was before, we can still survive. We have thought about getting outside our comfort zone and moving outside of Chinatown, but we never put it into action. As the years go by, my husband and I are getting closer to retirement age and we can’t afford to take big risks. The Chinatown community has supported us all these years and we want to continue to be here for them.
+
+<!-- <img src="bambooVillage_2of5"/> -->
+
+**CT:** Once you retire, what do you think will happen with Bamboo Village? Do you plan to pass it to your children?
+
+**K:** I’ve never thought about my kids taking over. Even if they wanted to, I would tell them not to. My in-laws’ generation decided to go into business because they couldn’t find a job to make a living. But for my children’s generation, as long as they can find a stable job, they can be independent. Running a business is a lot of pressure, much more than a job where you only work for eight hours. If the phone rings at night, my heart races, because I don’t know if it’ll be the security company telling me someone’s broken into my store. That kind of pressure is always there. Why not choose an easy life?
+
+**CT:** Is there anything positive about running Bamboo Village that has kept you in the Chinatown community?
+
+**K:** We sell lots of plants now. Sometimes I talk to people who tell me how much they like seeing the plants. They tell me our store makes Chinatown beautiful, and that we’re doing a good job. I’m very happy when I hear these comments, because people see the effort we put into making the environment more beautiful. I really appreciate it when passerbys look at us this way.
+
+**CT:** Your store really is beautiful. The inside is like a little forest, a little escape. Can you tell us a bit about how it came to be this way? How did you make the transition to where the store is now?
+
+**K:** Originally, we ran a store selling handicrafts and furniture. My father in-law noticed there were no stores in Chinatown that sold bamboo goods. He went to China with my husband to search for bamboo products. At the beginning, we sold bamboo furniture. Then we kept adding more bamboo-related things.
+
+<!-- <img src="bambooVillage_3of5"/> -->
+
+I also learn new things from customers everyday. Besides furniture, customers asked for Asian antique furniture, which we added to our products. Then they asked for other oriental antique items, so we added those as well. There is always a trend, but trends never last long. That’s why we keep changing, and we keep listening to the customers to see what they’re looking for. A couple of years ago, business was in bad shape. My husband suggested that we try selling flowers, so we started with just one shopping cart of flowers. It did alright, so we decided to bring in a larger variety of plants to add more income. Before the pandemic, we decided we were going to change our store to have more gardening-related products. We had a transition plan in mind to make this shift, but our timeline for this transition was sped up because of the pandemic. We opened a couple of hours a week in June by appointment, but every time we have an appointment, we get other customers who want to come in. We realized that there are suddenly more young people interested in plants. We learned from customers that it’s because people want their homes to look nice when they’re on video calls, since they’re working from home. This really opened up my eyes. Customers are willing to show me pictures of popular plants they’re looking for, and they’re willing to spend lots of money to buy them. There are even auctions. I’m not very interested in social media, but I ask my daughters to show me what’s popular on social media so I can keep up with what customers are interested in. My kids also suggested creating a website for the store so we can expand our client base to keep the business going. I get my kids to help me with the website, and we are learning how to do it, too.
+
+**CT:** How have your clients changed throughout the years, and throughout the pandemic?
+
+**K:** It’s changed to a different age group. For example, one of the items we used to sell were joss paper and worship items, and that was more popular among middle-aged and older clients. But as the years go by, this population is growing smaller and smaller, so we can’t keep relying on this product so we have to be able to foresee the changes and bring in products to cover for these losses. We have to keep adapting to be sustainable. Because of the pandemic, people now mostly shop online unless it’s items that you need to see in person. For plants, for example, it’s better to touch them and pick the one you want, because the one you see in a photo and the one you get shipped to you are different. Since the pandemic, we brought in a lot more variety of plants and plant-related products so that we can cover the losses from other areas. That’s why our clients have shifted to 20 to 40 year-olds. Some of our customers post about our store on social media, and the exposure brings us more business. I think having returning customers is really important, too. Making money is important, but what’s more important is building trust. It’s all about forming long-term relationships with your customers. When you come in to our store, it doesn’t matter if you buy anything or not, to me I feel lucky just to have you come in. I can’t sell you something unless it’s something that I am proud of, because even though I can sell something today that is not as good and then just pocket the money, I would have broken that trust and the relationship. Customer service with heart is the key to long-term business.
+
+<!-- <img src="bambooVillage_4of5"/> -->
+
+**CT:** How has COVID-19 changed your business?
+
+**K:** It’s made it so that we have to react faster. Even before the pandemic,we planned to change over our store, but we were doing it slowly, because change involves lots of work. Before, our plan to change was only a thought. We hadn’t yet planned out how we were going to actually execute it, we just knew we had to change. So the pandemic forced us to speed up that process and actually put it into action. We couldn’t just keep thinking about it anymore, we had to do something or else we can’t survive. So many businesses closed because of the pandemic, and it’s sad to see.
+
+**CT:** How do you think the pandemic will affect Chinatown or how you operate Bamboo Village?
+
+**K:** Even without the pandemic, Chinatown has been changing. My daughter tells me Chinatown became a hipster town a while ago. The world is changing. You can’t change the world, so you have to change yourself to adapt to this world. People are coming to do business in Chinatown because the location is very convenient. Compared with other neighbourhoods like Gastown or downtown, the rent is relatively cheaper. People see the opportunities, so if you can’t keep up, you have to get out. Once you get out, new people will come in. No matter where you are, even outside Chinatown, this is the nature of business. I appreciate new businesses coming in. They bring in new concepts and new customers. When the new generation dines out, they will look online for good places. New businesses put a lot of effort into social media. Besides the quality of the food, it also has to look good and be “Instagram-worthy”. It takes a lot of effort to do this and upkeep it too. We’re learning new things from them too, new concepts, to mix the traditional and the modern and make the best of both worlds. These new businesses can survive because they are aiming at the right market. I appreciate these new businesses because they come in and make Chinatown more active.
+
+<!-- <img src="bambooVillage_5of5"/> -->
+
+**CT:** Do you see this as a problem in some ways? When new businesses come in, they make the rent higher, so a lot of the older businesses can’t survive, especially during COVID-19. I was really sad to hear that Goldstone bakery is closing.
+
+**K:** I’ve been going to Goldstone for years, and I feel sad, too, but nothing lasts forever. No matter how good you are, when you pass to the next generation, the upkeep is hard. A restaurant has many people working there. In order to support a big restaurant like that, you must have good business. It’s not an easy job. For a restaurant to close at 10 PM, most likely there’s still lots of clean up to do after closing. The bigger the restaurant, the more overhead costs there are, which means more pressure. In order to keep up with those costs, you have to have good enough business to maintain that. If there’s enough traffic, then that’s not a problem, but nowadays the traffic is getting less and less and everything is more expensive. Even if it’s just one month that you have less business, it’s already a big loss and a lot of pressure, with many people and their families relying on you. When you’re losing money every month, you’d rather just cut your losses right away. Whether a glass is half empty or half full depends on your perspective. That’s why when I look at it from this angle, it’s good that someone else is taking over the business.
+
+**CT:** COVID-19 has been difficult for everyone, especially for local businesses. What are some ways you feel like people can support Chinatown?
+
+**K:** We can’t rely on others to solve our own problems. But when people pass by, and they tell me they appreciate the work I do, it gives me more passion to keep doing even better. Chinatown has an image issue. When new businesses come to Chinatown, new customers will come. Unless homelessness is solved as a problem in Chinatown, the golden period won’t be back.
+
+**CT:** What does resilience mean to you?
+
+**K:** For me, resilience means nothing lasts forever. You have to equip yourself, improve yourself, upgrade yourself, in order to face the changes. You have to anticipate what’s going to happen in the future and plan out your next step. Even though you see so many restaurants close down, new ones will always take over. You never know when the next pandemic will come. People always think a war will crash the economy, but you don’t need a war or any weapons for it to happen. No matter how well you prepare, things happen. Just wait until it comes. Then you see what’s happening, and you deal with it.
