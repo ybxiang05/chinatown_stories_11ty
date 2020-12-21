@@ -1,5 +1,10 @@
 @import "./lib/normalize";
 
 @import "./base/variables";
+@import "./base/globals";
+@import "./base/containers";
+@import "./base/animations";
 
+@import "./components/content";
 @import "./components/cover";
+@import "./components/land-acknowledgement";

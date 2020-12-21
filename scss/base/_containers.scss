@@ -1,0 +1,12 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+
+  &--md {
+    max-width: 60rem;
+  }
+
+  &--sm {
+    max-width: 40rem;
+  }
+}

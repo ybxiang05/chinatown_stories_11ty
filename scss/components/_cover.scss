@@ -1,0 +1,131 @@
+.cover {
+  --border-offset: 1.5rem;
+  --logo-duration: 1.5s;
+  --logo-ease: ease-in-out;
+  position: sticky;
+  top: 0;
+  overflow-x: hidden;
+  min-height: 100vh;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: var(--border-offset);
+    bottom: var(--border-offset);
+    left: var(--border-offset);
+    right: var(--border-offset);
+    border: 0.5rem solid var(--color-red);
+  }
+}
+
+.cover__heading {
+  position: absolute;
+  margin: 0;
+  transition-duration: var(--logo-duration);
+
+  &[data-state="initial"] {
+    top: 50%;
+    left: 50%;
+    width: 70%;
+    max-width: 35rem;
+  }
+
+  &[data-state="complete"] {
+    top: 4rem;
+    left: 50%;
+    width: 70%;
+    max-width: 35rem;
+    transition-timing-function: var(--logo-ease);
+
+    .cover__logo {
+      transform: translateX(-50%);
+    }
+  }
+
+  &[data-flipping] {
+    transform: translateX(calc(-1px * var(--dx)))
+      translateY(calc(-1px * var(--dy)));
+    transition-duration: 0s;
+  }
+}
+
+.cover__logo {
+  transform: translate(-50%, -50%);
+  transition: transform var(--logo-duration) var(--logo-ease);
+  animation: 1.5s fadeIn forwards;
+}
+
+.cover__gate {
+  position: absolute;
+  display: block;
+  width: 140%;
+  max-width: none;
+  left: 15%;
+  bottom: 3rem;
+  opacity: 0;
+}
+
+.cover__lattice {
+  display: none;
+  position: absolute;
+  width: 30%;
+  max-width: 15rem;
+  opacity: 0;
+}
+
+.cover__lattice--left {
+  bottom: var(--border-offset);
+  left: var(--border-offset);
+}
+
+.cover__lattice--right {
+  transform: rotate(180deg);
+  top: var(--border-offset);
+  right: var(--border-offset);
+}
+
+.cover--logo-moved {
+  .cover__gate {
+    animation: fadeIn 1s forwards;
+  }
+
+  .cover__lattice {
+    animation: fadeIn 1s forwards 1s;
+  }
+}
+
+@media (min-width: 40em) {
+  .cover__gate {
+    width: 60%;
+    max-width: 55rem;
+    left: 8rem;
+    bottom: 5rem;
+    right: 8rem;
+  }
+}
+
+@media (min-width: 62em) and (orientation: landscape) {
+  .cover {
+    --border-offset: 3rem;
+  }
+
+  .cover__heading {
+    &[data-state="complete"] {
+      top: 8rem;
+      left: 8rem;
+      max-width: 25rem;
+
+      .cover__logo {
+        transform: none;
+      }
+    }
+  }
+
+  .cover__gate {
+    left: auto;
+  }
+
+  .cover__lattice {
+    display: block;
+  }
+}

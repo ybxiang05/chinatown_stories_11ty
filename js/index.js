@@ -1,6 +1,21 @@
-(function() {
-  console.log("js!!")
-})();
+document.addEventListener("DOMContentLoaded", function () {
+  const cover = document.getElementById("cover");
+  const logo = document.getElementById("logo");
+  const logoImage = logo.querySelector("img");
+  logoImage.addEventListener("animationend", () => {
+    flip(() => {
+      logo.dataset.state = "complete";
+    }, logo);
+  });
+
+  cover.addEventListener("transitionend", () => {
+    cover.classList.add("cover--logo-moved");
+  });
+});
+
+function getRect(el) {
+  return el.getBoundingClientRect();
+}
 
 // Flip function from Keyframers
 function flip(changeState, firstEl, getLastEl = () => firstEl) {

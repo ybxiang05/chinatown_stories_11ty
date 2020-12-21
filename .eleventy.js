@@ -4,6 +4,7 @@ const util = require("util");
 module.exports = function (config) {
   // Passthrough copy
   config.addPassthroughCopy("static");
+  config.addPassthroughCopy("js");
 
   // 404
   config.setBrowserSyncConfig({
@@ -42,7 +43,7 @@ module.exports = function (config) {
       output: "dist",
     },
     passthroughFileCopy: true,
-    templateFormats: ["njk", "md", "js"],
+    templateFormats: ["njk", "md"],
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "njk",
   };
