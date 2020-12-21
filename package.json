@@ -6,7 +6,8 @@
   "scripts": {
     "js": "terser js/index.js --compress --mangle -o dist/js/index.js",
     "sass": "sass scss/main.scss dist/assets/main.css --style=compressed",
-    "start": "concurrently \"npm run sass --watch\" \"npm run serve\"",
+    "sass:watch": "sass scss/main.scss dist/assets/main.css --style=compressed --watch",
+    "start": "concurrently \"npm run sass:watch\" \"npm run serve\"",
     "serve": "cross-env ELEVENTY_ENV=development npx eleventy --serve",
     "build": "eleventy build && npm run sass && npm run js"
   },
