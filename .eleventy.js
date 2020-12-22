@@ -1,5 +1,6 @@
 const fs = require("fs");
 const util = require("util");
+const lazyImagesPlugin = require("eleventy-plugin-lazyimages");
 
 module.exports = function (config) {
   // Passthrough copy
@@ -24,6 +25,18 @@ module.exports = function (config) {
   // Filters
   config.addFilter("console", function (value) {
     return util.inspect(value);
+  });
+
+  // shortcodes
+  config.addShortcode("contentImage", function (path, alt, className) {
+    return `<img ${className ? 'class="' + className + '"' : ""}
+        src="/static/assets/content_images/${path}"
+        alt="${alt}"
+        >`;
+  });
+
+  config.addPlugin(lazyImagesPlugin, {
+    imgSelector: ".content img", // custom image selector
   });
 
   // Collections

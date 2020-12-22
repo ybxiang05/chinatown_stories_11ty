@@ -1,5 +1,6 @@
 <div class="content">
   {% for content in collections.content %}
     {{ content.data.title | safe }}
+    {{ content.templateContent | safe }}
   {% endfor %}
 </div>

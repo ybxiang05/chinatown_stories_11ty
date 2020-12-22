@@ -14,7 +14,7 @@ blurb: |
 img: ""
 ---
 
-<!-- <img src="houseOfRice 1of11"/> -->
+{% contentImage "houseOfRice 1of11.jpg", "" %}
 
 **CT:** Can you tell us about your relationship to Vancouver’s Chinatown?
 
@@ -30,7 +30,7 @@ img: ""
 
 **M/K:** It’s silly now, but when I went to Chinatown with my dad as a kid, I would think we were going to China. Looking back, that was just the most obvious way of understanding the cultural exchange as a kid, because Chinatown felt like a very removed space. Now I’m part of this space, and I see the same people on the street everyday. Chinatown sits on the edge of the Downtown Eastside, and has very complex relationships and histories. By living here, I become part of these relationships as well as patterns of gentrification. I was manager at a queer venue just outside Chinatown, and was laid off work because of COVID-19. Because of this, I’m now in a position where I rarely leave the community and the neighbourhood. As an artist who’s starting out, and as a kid who grew up in a mixed household, I often felt like an outsider even in my own culture. Because I’m so immersed in Chinatown now, I’m beginning to feel more like a part of the community.
 
-<!-- <img src="houseOfRice_2of11"/> -->
+{% contentImage "houseOfRice_2of11.jpg", "" %}
 
 **S/V:** I’ve travelled a lot, and I always find comfort in Chinatowns everywhere I go, especially because of the food. Vancouver’s Chinatown felt intimidating at first because there weren’t a lot of shops open. I don’t know if it’s because I feel more comfortable in the space now, or if there’s a growth in the number of shops, but now the intimidation has completely worn off, and I come to Chinatown quite often. Since COVID-19, I haven’t been able to come out here as much, especially because I’m a full-time frontline worker. A lot of my free time was spent self-isolating and on self-care because I’m in contact with a lot of customers. I didn’t want to risk bringing that to Kendell, so I had to separate myself from Chinatown for a while.
 
@@ -72,7 +72,7 @@ img: ""
 
 **M/K:** I think that’s been a focal point of my literal transformation. Like Van was saying, there are elements of the virus experience that have been a bit of a gift. Before COVID-19, I spent so much time working that I didn’t have time to spend with myself. Now it’s the inverse, and I’m finally able to confront all these things that I’ve been processing since I was a kid but have never actually looked at in the face for what they are. Now I’m able to love that about myself.
 
-<!-- <img src="houseOfRice_3of11"/> -->
+{% contentImage "houseOfRice_3of11.jpg", "" %}
 
 **CT:** What is a message that you want to convey with your art?
 
@@ -86,8 +86,8 @@ img: ""
 
 **M/K:** I think we’re both on a little bit of a performance break. I’ve done a few fundraisers where the revenue is donated to an organization. I recently did a number reciting Mark Aguahar’s poem “Litanies to My Heavenly Brown Body”, which was very important to me. I think the yellowing of bodies is a further division from brownness in how I conceive those things. I think making art that sparks difficult conversations has been important to me. This virus has brought an upsurge of anti-Asian racism. The model minority myth has real implications in the world especially in North America, but it doesn’t protect you from being perceived as the yellow peril. This yellow peril sentiment can be turned on at any time, and if you are in a certain space, there is so much rhetoric that can be used against you regardless of how much material possessions, land, or success you’ve accumulated, because of the white lens.
 
-<!-- <img src="houseOfRice_4of11"/> -->
-<!-- <img src="houseOfRice_5of11"/> -->
+{% contentImage "houseOfRice_4of11.jpg", "" %}
+{% contentImage "houseOfRice_5of11.jpg", "" %}
 
 **S/V:** I’m Vietnamese and South East Asian. I have darker skin. Growing up, I’ve always been under the impression that having darker skin is not as desirable as having lighter skin, because darker skin means you’re poor, and your family is working class or farmers. I really had to learn to deconstruct and unlearn that over the last little while. It’s been impactful, and I think it’s an important conversation that comes from the Aguahar poem.
 
@@ -97,14 +97,14 @@ img: ""
 
 **S/V:** It’s also important to realize that even though there is so much racism right now, it isn’t the worst that’s happened. Queer and Asian communities have both persevered and survived for long enough that we’ve been able to be ourselves and make space for ourselves. As a demographic, we’ve gone through racism, we’ve gone through the hate, we’ve gone through the struggles. It’s not the end of the world, as much as it might seem like it.
 
-<!-- <img src="houseOfRice_6of11"/> -->
-<!-- <img src="houseOfRice_7of11"/> -->
+{% contentImage "houseOfRice_6of11.jpg", "" %}
+{% contentImage "houseOfRice_7of11.jpg", "" %}
 
 **CT:** Was it important to you to have these events at the Sun YatSen Garden in Chinatown?
 
 **M/K:** It’s important to me. I think Sun Yat-Sen Garden is a beautiful space that has very scholarly connotations. Having this queer opera and queer immersive drag experience in this space goes back to our earlier conversation about not divorcing queer political experiences from academia or a party sphere. It’s really about blending those things together.
 
-<!-- <img src="houseOfRice_10of11"/> -->
+{% contentImage "houseOfRice_10of11.jpg", "" %}
 
 **S/V:** We don’t live one-note lives.
 
@@ -112,9 +112,9 @@ img: ""
 
 **S/V:** It’s about being able to be all our identities in one space, rather than feeling like we have to reserve parts of our identities for certain spaces and certain times. Obviously timing and space are important, but it’s important to be able to explore everyone’s identities in a safe way. Just knowing that we could bring our queer selves to the Sun Yat-Sen Garden and to Chinatown was an important experience.
 
-<!-- <img src="houseOfRice_7of11"/> -->
-<!-- <img src="houseOfRice_8of11"/> -->
-<!-- <img src="houseOfRice_9of11"/> -->
+{% contentImage "houseOfRice_7of11.jpg", "" %}
+{% contentImage "houseOfRice_8of11.jpg", "" %}
+{% contentImage "houseOfRice_9of11.jpg", "" %}
 
 **CT:** What does that mean to you to have your studio in Chinatown?
 
@@ -130,7 +130,7 @@ img: ""
 
 **S/V:** Checking these boxes is a fine balance, because if we were trying to follow a more traditional route, we would never have queer lion dancing and trying to bring women and femmes into the practice, which is traditionally not allowed. We need to balance respect for tradition while at the same time break barriers so we can include everyone.
 
-<!-- <img src="houseOfRice_11of11"/> -->
+{% contentImage "houseOfRice_11of11.jpg", "" %}
 
 **CT:** Speaking of intent and audience, who is your audience?
 

@@ -5,7 +5,7 @@ order: 12
 blurb: "Bamboo Village is located at 135 East Pender. Identifiable by its iconically round overhead signage, walking into Bamboo Village is stepping into a dreamscape oasis illuminated by timid red paper lanterns that hide behind an overgrown forest of houseplants. Keller Ng and her husband Dixon have been curating Bamboo Village’s eclectic collection of furniture, souvenirs, and home decor for 30 years. In this interview, Keller chats with us about Chinatown’s golden period, and the ways in which Bamboo Village has had to adapt to the ever-changing demands of a shifting client demographic. Spoiler: the answer is always more houseplants. Visit Bamboo Village at www. bamboovillage.ca. You can follow Bamboo Village on Instagram @bamboovillageco."
 ---
 
-<!-- <img src="bambooVillage_1of5"/> -->
+{% contentImage "bambooVillage_1of5.jpg", "" %}
 
 **CT:** What is your relationship with Chinatown?
 
@@ -27,7 +27,7 @@ blurb: "Bamboo Village is located at 135 East Pender. Identifiable by its iconic
 
 **K:** We had a comfortable life during the golden period because business was good. By the time my in-laws retired, they asked us if we wanted to take over their businesses. Instead of taking over the herbal store and kitchenware store, we decided to run a furniture and handicrafts store. Even though business isn’t as good as it was before, we can still survive. We have thought about getting outside our comfort zone and moving outside of Chinatown, but we never put it into action. As the years go by, my husband and I are getting closer to retirement age and we can’t afford to take big risks. The Chinatown community has supported us all these years and we want to continue to be here for them.
 
-<!-- <img src="bambooVillage_2of5"/> -->
+{% contentImage "bambooVillage_2of5.jpg", "" %}
 
 **CT:** Once you retire, what do you think will happen with Bamboo Village? Do you plan to pass it to your children?
 
@@ -41,7 +41,7 @@ blurb: "Bamboo Village is located at 135 East Pender. Identifiable by its iconic
 
 **K:** Originally, we ran a store selling handicrafts and furniture. My father in-law noticed there were no stores in Chinatown that sold bamboo goods. He went to China with my husband to search for bamboo products. At the beginning, we sold bamboo furniture. Then we kept adding more bamboo-related things.
 
-<!-- <img src="bambooVillage_3of5"/> -->
+{% contentImage "bambooVillage_3of5.jpg", "" %}
 
 I also learn new things from customers everyday. Besides furniture, customers asked for Asian antique furniture, which we added to our products. Then they asked for other oriental antique items, so we added those as well. There is always a trend, but trends never last long. That’s why we keep changing, and we keep listening to the customers to see what they’re looking for. A couple of years ago, business was in bad shape. My husband suggested that we try selling flowers, so we started with just one shopping cart of flowers. It did alright, so we decided to bring in a larger variety of plants to add more income. Before the pandemic, we decided we were going to change our store to have more gardening-related products. We had a transition plan in mind to make this shift, but our timeline for this transition was sped up because of the pandemic. We opened a couple of hours a week in June by appointment, but every time we have an appointment, we get other customers who want to come in. We realized that there are suddenly more young people interested in plants. We learned from customers that it’s because people want their homes to look nice when they’re on video calls, since they’re working from home. This really opened up my eyes. Customers are willing to show me pictures of popular plants they’re looking for, and they’re willing to spend lots of money to buy them. There are even auctions. I’m not very interested in social media, but I ask my daughters to show me what’s popular on social media so I can keep up with what customers are interested in. My kids also suggested creating a website for the store so we can expand our client base to keep the business going. I get my kids to help me with the website, and we are learning how to do it, too.
 
@@ -49,7 +49,7 @@ I also learn new things from customers everyday. Besides furniture, customers as
 
 **K:** It’s changed to a different age group. For example, one of the items we used to sell were joss paper and worship items, and that was more popular among middle-aged and older clients. But as the years go by, this population is growing smaller and smaller, so we can’t keep relying on this product so we have to be able to foresee the changes and bring in products to cover for these losses. We have to keep adapting to be sustainable. Because of the pandemic, people now mostly shop online unless it’s items that you need to see in person. For plants, for example, it’s better to touch them and pick the one you want, because the one you see in a photo and the one you get shipped to you are different. Since the pandemic, we brought in a lot more variety of plants and plant-related products so that we can cover the losses from other areas. That’s why our clients have shifted to 20 to 40 year-olds. Some of our customers post about our store on social media, and the exposure brings us more business. I think having returning customers is really important, too. Making money is important, but what’s more important is building trust. It’s all about forming long-term relationships with your customers. When you come in to our store, it doesn’t matter if you buy anything or not, to me I feel lucky just to have you come in. I can’t sell you something unless it’s something that I am proud of, because even though I can sell something today that is not as good and then just pocket the money, I would have broken that trust and the relationship. Customer service with heart is the key to long-term business.
 
-<!-- <img src="bambooVillage_4of5"/> -->
+{% contentImage "bambooVillage_4of5.jpg", "" %}
 
 **CT:** How has COVID-19 changed your business?
 
@@ -59,7 +59,7 @@ I also learn new things from customers everyday. Besides furniture, customers as
 
 **K:** Even without the pandemic, Chinatown has been changing. My daughter tells me Chinatown became a hipster town a while ago. The world is changing. You can’t change the world, so you have to change yourself to adapt to this world. People are coming to do business in Chinatown because the location is very convenient. Compared with other neighbourhoods like Gastown or downtown, the rent is relatively cheaper. People see the opportunities, so if you can’t keep up, you have to get out. Once you get out, new people will come in. No matter where you are, even outside Chinatown, this is the nature of business. I appreciate new businesses coming in. They bring in new concepts and new customers. When the new generation dines out, they will look online for good places. New businesses put a lot of effort into social media. Besides the quality of the food, it also has to look good and be “Instagram-worthy”. It takes a lot of effort to do this and upkeep it too. We’re learning new things from them too, new concepts, to mix the traditional and the modern and make the best of both worlds. These new businesses can survive because they are aiming at the right market. I appreciate these new businesses because they come in and make Chinatown more active.
 
-<!-- <img src="bambooVillage_5of5"/> -->
+{% contentImage "bambooVillage_5of5.jpg", "" %}
 
 **CT:** Do you see this as a problem in some ways? When new businesses come in, they make the rent higher, so a lot of the older businesses can’t survive, especially during COVID-19. I was really sad to hear that Goldstone bakery is closing.
 

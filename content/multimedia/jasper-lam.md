@@ -15,7 +15,7 @@ I must confess to a self-loathing time in my teens when I had what I would call 
 
 Since then, I have learned a lot about myself and about the history of Chinese immigrants in Vancouver, trying to understand the adversities that they and other immigrants alike had and still have to face. I would compare that to my own experiences growing up Asian in a Western society. Today I see others and myself much differently than I did before. When I see an immigrant or foreigner now, I can only imagine the inspiring tales they could tell.
 
-<!-- <img src="thankYou_1of2"/> -->
+{% contentImage "thankYou_1of2.jpg", "" %}
 
 Earlier this year, another favourite Shanghainese restaurant of mine in East Van had closed, Ning Tu. My family had been dining there since I was a child, and I only have fond memories of the food and experiences had there. I assume that they closed because of retirement, as the restaurant appeared to be doing quite well for themselves in recent years prior to their closing. I imagine the staff were at an age where it just did not make sense to renew their lease, that they did not have successors to the business, and so it was a suitable time for retirement.
 
@@ -25,7 +25,7 @@ I asked my friend how her mom felt about the restaurant closing and she replied 
 
 Since knowing about the closure of Gold Stone, I told a friend from Hong Kong about it and he was surprisingly disheartened by this. I asked why he felt this way, since I figured diners like Gold Stone were a dime a dozen back in Hong Kong. He then explained to me, just like the iconic fluorescent lights in Hong Kong, vintage diners were also dwindling. Slowly but surely, the anachronistic is changing and being replaced.
 
-<!-- <img src="thankYou_2of2"/> -->
+{% contentImage "thankYou_2of2.jpg", "" %}
 
 As I’m getting older myself, I am witnessing the changes in my surroundings pass before me. It seems like every year, a favourite restaurant of mine closes, replaced by new modern cafés, condos, or high-rises. I’m really beginning to understand my elders more and more, like when my grandma says something doesn’t taste the same or as good as when she had it decades ago. Soon enough, if not already, that will be me and my generation reminiscing about the past.
 

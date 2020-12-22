@@ -59,10 +59,10 @@ img: ""
 
 ### Jasper Lam
 
-<!-- <img src="goldstone_1of4"/> -->
-<!-- <img src="goldstone_2of4"/> -->
-<!-- <img src="goldstone_3of4"/> -->
-<!-- <img src="goldstone_4of4"/> -->
+{% contentImage "goldstone_1of4.jpg", "" %}
+{% contentImage "goldstone_2of4.jpg", "" %}
+{% contentImage "goldstone_3of4.jpg", "" %}
+{% contentImage "goldstone_4of4.jpg", "" %}
 
 ## Miniature
 

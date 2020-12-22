@@ -9,7 +9,7 @@ blurb: |
 img: ""
 ---
 
-<!-- <img src="pearlLow_1of5"/> -->
+{% contentImage "pearlLow_1of5.jpg", "" %}
 
 **CT:** What’s your relationship to Chinatown?
 
@@ -47,7 +47,7 @@ I want us to keep expanding and pushing for other narratives to be at the forefr
 
 **P:** I think it’s an often underestimated category because people forget how smart kids are. I think it’s crucial to introduce them to all sorts of perspectives, especially now, when we’re having more conversations around representation in the media. I’m biased because I love cartoons, but kids’ stories can be thought-provoking, even for adults. There’s just so much that can be imagined and explored within the children’s genre.
 
-<!-- <img src="pearlLow_2of5"/> -->
+{% contentImage "pearlLow_2of5.jpg", "" %}
 
 **CT:** Do you find it challenging to work with larger studios for shows that have an all-white or all heteronormative cast where it might be very
 different from your lived experiences?
@@ -58,7 +58,7 @@ different from your lived experiences?
 
 **P:** In 2019, which feels like so long ago, I wanted to quit the animation industry. I felt as if I were just a pair of drawing hands, hired to carry out the director’s vision, even though I wanted to get into animation so I can provide creative input for story aspects. I felt like I wasn’t being heard. It shouldn’t be a privilege to bring your whole self to a project. That’s when I started exploring comics, where I could do my own storytelling. In 2019, one of the co-directors of Hair Love ended up reading my autobiographical comic called Tension, and he reached out to me to see if I was free.
 
-<!-- <img src="pearlLow_3of5"/> -->
+{% contentImage "pearlLow_3of5.jpg", "" %}
 
 Hair Love was my foot in the door to the LA industry. That was my first experience working on a project that was telling a story I cared about, and had characters that look like me. From that point on, I worked towards making connections in the LA animation industry. I’m now working with more Black creatives than I have ever worked with in my entire life, and it’s refreshing because in these spaces, I can exercise my perspective much more than before. I had to metaphorically leave Vancouver to find what was good for me.
 
@@ -78,7 +78,7 @@ Hair Love was my foot in the door to the LA industry. That was my first experien
 
 **P:** For me, a huge part is financial support, especially from businesses that aren’t native to Chinatown. It would be cool if restaurants in Chinatown could host lunch for seniors, make lunch boxes, or offer free coffee or tea with a bun to those who have been in these communities for a long time as a way of giving back. I feel like Vancouver has an interesting struggle with cultivating community, where we tend to stay in our cultural enclaves. People will say Vancouver is multicultural, but I don’t feel like people individually mingle outside of their own respective communities. What are these elders going to do? They don’t have the language, they don’t have the same resources as other folks who also occupy Chinatown. That’s a gap that needs to be bridged. I just want white people to try. It might be exhausting to you at first because the work is new, but it pushes you to exercise empathy in a way you’ve never had to before. That’s what growth is.
 
-<!-- <img src="pearlLow_5of5"/> -->
+{% contentImage "pearlLow_5of5.jpg", "" %}
 
 **CT:** It’s one of those things where if it’s easy, you’re probably not doing enough. I find that even as an East Asian person, I constantly need to check my privilege, especially in Chinatown. When we think of Chinatown as a community, it’s so much more intersectional than what we make it out to be. What are your thoughts on the current relationship between Chinatown and Hogan’s Alley, and the difficulties of facilitating conversations between different communities?
 
@@ -100,7 +100,7 @@ Hair Love was my foot in the door to the LA industry. That was my first experien
 
 **P:** My identity has a lot of intersections, and I feel like my entire existence is resilience. I’m Black, I’m queer, I’m an artist, and resilience to me means being my most authentic self. Resilience is creating and maintaining space in the face of white supremacy, which can look different for every community, because different communities need different support. It’s also about helping others hold space for themselves. We exist and move through the world in different capacities, and I think that’s important to recognize when talking about resilience.
 
-<!-- <img src="pearlLow_4of5"/> -->
+{% contentImage "pearlLow_4of5.jpg", "" %}
 
 **CT:** You talked about resilience as existing and working through white supremacy and colonial practices. What does that look like in your daily practice?
 

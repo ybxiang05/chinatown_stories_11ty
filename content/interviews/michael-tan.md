@@ -6,7 +6,7 @@ blurb: "Michael Tan is the director at Chau Luen Society and a co-chair of the C
 img: ""
 ---
 
-<!-- <img src="chauLuen_1of5"/> -->
+{% contentImage "chauLuen_1of5.jpg", "" %}
 
 **CT:** What is your relationship to Chinatown?
 
@@ -34,7 +34,7 @@ I feel a responsibility to not only be a practitioner but to teach and promote i
 
 **CT:** What does resilience mean in light of the greater interest in lion dancing?
 
-<!-- <img src="chauLuen_2of5"/> -->
+{% contentImage "chauLuen_2of5.jpg", "" %}
 
 **M:** Even in the word itself, resilience has that character of continuing on in the face of adversity. In many kung fu styles there is a set named after the plum blossom. And it’s not just martial arts organizations; a lot of Chinese societies use the plum blossom as part of their symbol or logo design. The plum blossom is one of the few flowers that thrives in winter amidst the snow when there’s nothing else in bloom. When we talk about resilience, I think about the plum blossom, I think about kung fu, and I think about lion dance. Resilience is being able to thrive through adversity, and it all comes together in the symbol of the plum blossom. To me, it’s a trait that’s always been there in us. You just don’t really see it or understand it until someone points it out.
 
@@ -46,7 +46,7 @@ I feel a responsibility to not only be a practitioner but to teach and promote i
 
 **M:** Chau Luen is a Chinatown clan society. Most clan societies are organized around a common surname or hometown in China. Chau Luen is organized around five last names. We’ve been around for almost 80 years. We were originally located at Union and Main. In the 60s, as part of the teardown for the viaduct and policies around that time, we were forced to relocate. In 1973, we established the Chau Luen Tower as it is right now, which is an apartment complex at Keefer and Gore that has 82 units for low-income seniors right in Chinatown. Each unit has its own kitchen and bathroom so we could take care of the seniors, while they can still go grocery shopping and live independently with friends. I’ve always been proud of our focus on seniors’ housing. My great aunt, grandfather, and grandmother all lived there during their lifetimes, and it’s one of the biggest reasons I got involved with the society beyond the athletic club. That’s always been the nearest and dearest to my heart.
 
-<!-- <img src="chauLuen_3of5"/> -->
+{% contentImage "chauLuen_3of5.jpg", "" %}
 
 **CT:** Can you tell us more about the lion visits in the tower around Lunar New Year?
 
@@ -56,7 +56,7 @@ I feel a responsibility to not only be a practitioner but to teach and promote i
 
 **M:** When you work with an organization like the LSG, it’s important to remember that the things you talk about have real impact. It’s easier to remember what being in Chinatown feels like during meetings when you’re walking the streets all the time. Sometimes it can be hard to remember why you’re meeting when you’re debating policies and programs all day. Being resilient on that front means remembering that the reason you’re there is so you can have a wider influence to help shape policies that will affect the people in Chinatown.
 
-<!-- <img src="chauLuen_4of5"/> -->
+{% contentImage "chauLuen_4of5.jpg", "" %}
 
 **CT:** What has been the biggest worry for you during this pandemic?
 
@@ -74,7 +74,7 @@ I feel a responsibility to not only be a practitioner but to teach and promote i
 
 There is also lots of work to be done with the Northeast False Creek development plan, which will impact Hogan’s Alley and Chinatown. We need to make sure everyone who is a stakeholder in that plan is at the table during the dialogue.
 
-<!-- <img src="chauLuen_5of5"/> -->
+{% contentImage "chauLuen_5of5.jpg", "" %}
 
 **CT:** Are there specific ways in which the Chinatown community can support other racialized folks, whether it be in the Black Lives Matter movement, or when it comes to policing in the Downtown Eastside?
 

@@ -6,7 +6,7 @@ blurb: "Like many transplants here, Mrs. Li fell in love with Vancouver for its 
 img: ""
 ---
 
-<!-- <img src="mrsLi_1of6"/> -->
+{% contentImage "mrsLi_1of6.jpg", "" %}
 
 **CT:** 请您告诉我们您叫什么名字，在唐人街住多久了？
 **CT:** Please tell us your name, and how long you’ve lived in Chinatown
@@ -26,7 +26,7 @@ img: ""
 **L:** 我家乡是山东青岛的。我是青岛人。在青岛环境卫生也还不错，但比不上这里。毕竟人少。
 **L:** My ancestral home is in Qingdao, Shandong. I’m from Qingdao. The environment in Qingdao is good, also, but it’s not as good as here as there are fewer people here.
 
-<!-- <img src="mrsLi_2of6"/> -->
+{% contentImage "mrsLi_2of6.jpg", "" %}
 
 **CT:** 对您来说，唐人街意味着什么？
 **CT:** What does Chinatown mean to you?
@@ -46,7 +46,7 @@ img: ""
 **L:** 最开心的回忆就是可以跟同龄的人相处。我住本拿比和美树堂的时候没有同龄的家乡人可以聚一聚，聊个天，说个话。在这里，我很开心有同龄的老太太可以谈家常。比如说，你跟谁来的，你家儿子几个孩子，你姑娘在哪里啦，国内还有孩子吗？就是唠家常，什么都说。在这儿生活的习惯吗？在家里每天做什么饭啊？就是老太太的话。虽然只是一些老太太的话，可是我在这里找到这么多人跟我有共同语言。但是和广东人讲话只能是你好，再见。没有人讲话是一件很孤独的事情，也不开心，会想家。我有段时间我有想回去，住两年就回中国半年。现在不是了。
 **L:** My happiest memory is just being around people my own age. When I lived in Burnaby and Maple Ridge, I didn’t have anyone with the same language background who I could get together with, to chat with. But here, I’m happy to have old ladies my age to talk about our daily lives. For example, we ask questions like, “who did you come to Canada with? How many kids does your son have? Where is your daughter?” and “Do you still have kids in China?” It’s just everyday conversation, but we talk about everything. “Have you gotten used to living here? What do you cook everyday?” It’s old lady talk. But even though it’s only old lady talk, I’m so glad I found so many people with the same language. When I speak with Cantonese folks, it’s limited to hello and goodbye. Having nobody to talk with is a very lonely thing. I wouldn’t be happy and would be homesick. There was a period when I would live here for two years and live in China for six months and alternate that way. Not anymore.
 
-<!-- <img src="mrsLi_3of6"/> -->
+{% contentImage "mrsLi_3of6.jpg", "" %}
 
 **CT:** 您在唐人街最早的记忆是什么？
 **CT:** What’s your oldest memory in Chinatown?
@@ -66,7 +66,7 @@ img: ""
 **L:** 非物质文化指的就是指艺术方面的文化。唐人街的华人历史在温哥华没有第二个。唐人街的耍龙舞狮啊，热闹啊，挂红灯笼啊。现在唐人街灯笼挂的少了。都是他们那次来拆房子的关系。原来唐人街灯笼是一串儿一串儿的，从上到下，还有贴着春联，可好了，看起来就是过年的样子。没钱都像过年的样子。这就是我们加拿大华裔的文化。在中国，家家户户过年都会挂灯笼，也就无所谓了。但在唐人街就独一无二，所以好多人会来唐人街。我有朋友住在列治文，都会来这里逛街，买点家乡的东西。
 **L:** Intangible heritage has to do with arts and culture. There’s no other Chinatown that carries Chinese diasporic history in Vancouver. There’s lion dancing here, and strings of red lanterns. It’s the atmosphere. But now there are fewer red lanterns in Chinatown. It’s related to when they came to tear down buildings. Chinatown used to have strings and strings of red lanterns, from top to bottom, and places would have spring couplets on their doors for Lunar New Year. Even if you didn’t have money or the resources, it felt like a celebration. That’s Chinese diasporic culture in Canada. Around Lunar New Year, every household in China would have lanterns, so it’s very common. But Chinatown is the only place that would have lanterns, so lots of people would come visit. Even my friends who live in Richmond would come to do their shopping and to buy things from back home.
 
-<!-- <img src="mrsLi_4of6"/> -->
+{% contentImage "mrsLi_4of6.jpg", "" %}
 
 **CT:** 每次逢年过节就特别看得出来华人文化。在新冠肺炎这段时间里来，您觉得您最大的压力和忧虑是什么？
 **CT:** Chinese heritage and cultural practices are certainly more visible during celebrations. What has been your biggest worry throughout the pandemic?
@@ -113,7 +113,7 @@ img: ""
 **CT:** 现在的疫情为很多人造成了不便。您觉得大家能如何帮助您和其他的长辈们？
 **CT:** The pandemic has caused a lot of inconvenience for lots of people. How can we help you and other elders?
 
-<!-- <img src="mrsLi_5of6"/> -->
+{% contentImage "mrsLi_5of6.jpg", "" %}
 
 **L:** 我们很感谢社区的这些年轻人。他们有帮助我们很多，给老人们做饭，送饭送上门，还打电话问候。社区里的年轻人可乐意帮助我们了，我觉得照顾的可好了。我可感谢这些年轻人了。他们会说，“奶奶，您需要什么就说，我们就是来帮助您的”。听到他们的问候也很欣慰。
 **L:** We are very thankful for the youth of the community. They’ve helped us a lot by making meals for us, delivering them to our doors, and even phoning us to check in. These community youths are so willing to help us, and I feel so well taken care of. I’m so thankful for them. They would say, “Popo, if you need anything, we’re here to help you”. It warms my heart to simply receive these calls.
@@ -136,4 +136,4 @@ img: ""
 **L:** 现在有好多人没有房子住，是我应该关注的事情，是我们大家都应该关注的事情。
 **L:** There are lots of people without housing. This is something I’m concerned about, and is something everyone should be concerned about.
 
-<!-- <img src="mrsLi_6of6"/> -->
+{% contentImage "mrsLi_6of6.jpg", "" %}

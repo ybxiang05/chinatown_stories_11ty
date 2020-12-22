@@ -6,7 +6,7 @@ blurb: "William Liu is the owner and operator of Kam Wai Dim Sum, a dim sum spec
 img: ""
 ---
 
-<!-- <img src="kamWai_1of3/> -->
+{% contentImage "kamWai_1of3.jpg", "" %}
 
 **CT:** Can you tell us a bit about your relationship with Chinatown?
 
@@ -30,7 +30,7 @@ img: ""
 
 **CT:** Kam Wai used to have many more dim sum chefs. What’s changed?
 
-<!-- <img src="kamWai_2of3/> -->
+{% contentImage "kamWai_2of3.jpg", "" %}
 
 **W:** This, to me, ties into the decline of foot traffic in Chinatown. In the early 90s, when Kam Wai first opened, we had 20 chefs here working until close to midnight. Dim Sum chefs will typically work in their own restaurants from 7 AM to 3 PM, and they have the rest of the day off. We would have had people come in at 3:30 PM, and work until 11 PM or 12 AM at night just to keep up with the demand for our products. At the time frozen dimsum was still really new. It was super convenient, and people knew it was freshly made the day of, especially with the buns. I remember the buns would come out of the steamer, and people would grab them out of the steam trays. They were piping hot, and as a child, I thought it was hilarious, watching adults grab plastic bags and shoving buns into them. That’s a fun memory, seeing people fight over a 叉燒包 (BBQ pork bun).
 
@@ -65,7 +65,7 @@ are trying our best to do well, even through the COVID-19 pandemic. I think real
 
 **CT:** What are some ways that Kam Wai can be supported in this time, throughout the pandemic, and whatever the future of Chinatown might look like?
 
-<!-- <img src="kamWai_3of3"/> -->
+{% contentImage "kamWai_3of3.jpg", "" %}
 
 **W:** I want people to be educated, and for them to learn about Chinatown. I want people to experience Chinatown firsthand. I want them to visit businesses, to talk to business owners, ask them how they’re doing, look at their customers, and try to take it in. I want people to just experience Chinatown and see the folks in Chinatown. I guess that’s not really supporting Kam Wai in particular.
 

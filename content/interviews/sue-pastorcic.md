@@ -9,7 +9,7 @@ blurb: |
 img: ""
 ---
 
-<!-- <img src="embers_1of3"/> -->
+{% contentImage "embers_1of3.jpg", "" %}
 
 **CT:** Can you tell us about your relationship with Chinatown and how you came to work here?
 
@@ -57,7 +57,7 @@ img: ""
 
 **S:** I believe we need more places like Eastside Works. With COVID-19, it’s so hard to meet and help people. We don’t have support services and because they weren’t already in place, it’s even harder to build them because of COVID-19. There are people who started working at the same time or before me, and they are still here. It’s sad to see that people can’t come here anymore, or have coffee, or keep warm when the winter comes. Where are these people going to go now? Last year we had a Christmas party for the whole community. It was beautiful. We were all accepted. There was hot chocolate and cookies. This year that’s not going to happen. I think this year we will see an increase in violence and I worry about the survival rates.
 
-<!-- <img src="embers_3of3"/> -->
+{% contentImage "embers_3of3.jpg", "" %}
 
 **CT:** What would you want people, from outside of Chinatown and the Downtown Eastside, to know about the communities you work with?
 
@@ -91,7 +91,7 @@ img: ""
 
 **S:** In the beginning I was quite traumatized. I was having more medical issues and was off work for about 3 months. I wasn’t used to being home so much. I’m used to having my days scheduled and structured. I couldn’t handle the stress of COVID-19 in the beginning, so Itook some time off work. Now that I’m back, I see that people are afraid and struggling, but it wasn’t always like that. We really need the government’s help. I know that it’s hard to pay CERB back, I get that, but there needs to be some kind of funding for the people down here so that they don’t have to worry about surviving. Chinatown has been here for many years, and these people deserve to thrive like they did back in the 70s.
 
-<!-- <img src="embers_2of3"/> -->
+{% contentImage "embers_2of3.jpg", "" %}
 
 **CT:** Are there any activities you’ve been doing to help with your mental health or things that keep you going?
 
