@@ -1,6 +1,16 @@
 <div class="content">
+  <h2>Table of Contents</h2>
   {% for content in collections.content %}
-    {{ content.data.title | safe }}
-    {{ content.templateContent | safe }}
+    <div class="accordion">
+      <button class="accordion__toggle" aria-expanded="false" aria-controls="{{ content.data.title | slug }}-content" id="{{ content.data.title | slug }}">
+        <p class="accordion__title">{{ content.data.title | safe }}</p>
+        {% if content.data.subtitle %}
+          <p class="accordion__subtitle">{{ content.data.subtitle | safe }}</p>
+        {% endif %}
+      </button>
+      <div class="accordion__content" id="{{ content.data.title | slug }}-content">
+        {{ content.templateContent | safe }}
+      </div>
+    </div>
   {% endfor %}
 </div>

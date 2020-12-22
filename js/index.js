@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+  // animate stuff
   const cover = document.getElementById("cover");
   const logo = document.getElementById("logo");
   const logoImage = logo.querySelector("img");
@@ -11,6 +12,26 @@ document.addEventListener("DOMContentLoaded", function () {
   cover.addEventListener("transitionend", () => {
     cover.classList.add("cover--logo-moved");
   });
+
+  //accordion stuff
+  document.addEventListener("click", (event) => {
+    const toggle = event.target;
+    if (
+      toggle.hasAttribute("aria-expanded") &&
+      toggle.getAttribute("aria-expanded") === "false"
+    ) {
+      toggle.setAttribute("aria-expanded", "true");
+    } else if (toggle.hasAttribute("aria-expanded")) {
+      toggle.setAttribute("aria-expanded", "false");
+    }
+  });
+
+  if (window.location.hash) {
+    const element = document.querySelector(window.location.hash);
+    if (element && element.hasAttribute("aria-expanded")) {
+      element.setAttribute("aria-expanded", "true");
+    }
+  }
 });
 
 function getRect(el) {
@@ -21,7 +42,6 @@ function getRect(el) {
 function flip(changeState, firstEl, getLastEl = () => firstEl) {
   // First
   const firstRect = getRect(firstEl);
-  console.log(firstRect);
 
   requestAnimationFrame(() => {
     // (something that changes layout)

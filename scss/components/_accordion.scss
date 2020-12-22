@@ -1,0 +1,14 @@
+.accordion {
+}
+
+.accordion__toggle {
+}
+
+.accordion__content {
+  height: auto;
+  overflow: hidden;
+
+  [aria-expanded="false"] + & {
+    height: 0;
+  }
+}
