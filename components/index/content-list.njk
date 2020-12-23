@@ -1,5 +1,5 @@
 <div class="content">
-  <h2>Table of Contents</h2>
+  <h2 class="content__heading">Table of Contents</h2>
   {% for content in collections.content %}
     <div class="accordion">
       <button class="accordion__toggle" aria-expanded="false" aria-controls="{{ content.data.title | slug }}-content" id="{{ content.data.title | slug }}">
@@ -7,6 +7,7 @@
         {% if content.data.subtitle %}
           <p class="accordion__subtitle">{{ content.data.subtitle | safe }}</p>
         {% endif %}
+        <svg class="accordion__toggle-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M23.245 4l-11.245 14.374-11.219-14.374-.781.619 12 15.381 12-15.391-.755-.609z"/></svg>
       </button>
       <div class="accordion__content" id="{{ content.data.title | slug }}-content">
         {{ content.templateContent | safe }}
