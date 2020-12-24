@@ -38,7 +38,7 @@ function afterDOMLoaded() {
       element.setAttribute("aria-expanded", "true");
     }
   }
-});
+};
 
 function getRect(el) {
   return el.getBoundingClientRect();
