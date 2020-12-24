@@ -14,7 +14,7 @@ blurb: |
 img: ""
 ---
 
-{% contentImage "houseOfRice 1of11.jpg", "" %}
+{% contentImage "houseOfRice_1of11.jpg", "" %}
 
 **CT:** Can you tell us about your relationship to Vancouver’s Chinatown?
 
