@@ -1,4 +1,10 @@
-document.addEventListener("DOMContentLoaded", function () {
+if(document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded',afterDOMLoaded);
+} else {
+  afterDOMLoaded();
+}
+
+function afterDOMLoaded() {
   // animate stuff
   const cover = document.getElementById("cover");
   const logo = document.getElementById("logo");
