@@ -10,7 +10,16 @@
         <svg class="accordion__toggle-icon" width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M23.245 4l-11.245 14.374-11.219-14.374-.781.619 12 15.381 12-15.391-.755-.609z"/></svg>
       </button>
       <div class="accordion__content" id="{{ content.data.title | slug }}-content">
-        {{ content.templateContent | safe }}
+        <div class="content-item">
+          {% if content.data.blurb %}
+            <div class="content-item__blurb">
+              {{ content.data.blurb | safe }}
+            </div>
+          {% endif %}
+          <div class="content-item__main">
+            {{ content.templateContent | safe }}
+          </div>
+        </div>
       </div>
     </div>
   {% endfor %}
