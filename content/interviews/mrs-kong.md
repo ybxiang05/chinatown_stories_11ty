@@ -1,7 +1,7 @@
 ---
 
-title: 邝太
-subtitle: Mrs. Kong
+title: Kong Tai
+subtitle: 邝太
 order: 6
 blurb: "Mrs. Kong has been a part of the Chinatown neighbourhood for almost a quarter of a century. As a member of the Chinatown Concern Group, Mrs. Kong has been adamant about speaking out against the gentrification of Chinatown. In 2017, her fiery speech at City Hall in opposition to the 105 Keefer project earned her the hearts of Chinatown youths and community organizers alike. Mrs. Kong tells Chinatown Today about the immediate needs of the Chinese senior communities in Chinatown, why Chinese folks should support Indigenous peoples in so-called Canada, and what she loves about hanging out with diasporic Chinese youth. If you want to read about some wholesome intergenerational bonding, this is an interview you don’t want to miss. Additionally, if you speak Cantonese or Mandarin and want to spend some quality time making dumplings, playing mahjong, and singing karaoke with cool Chinese seniors like Mrs. Kong, get in touch with the Yarrow Intergenerational Society for Justice."
 img: ""

@@ -1,7 +1,7 @@
 ---
 title: Shay Dior & Maiden China
 subtitle: House of Rice
-order: 13
+order: 14
 blurb: |
   "Shay Dior (Van Dang) is the founding House Mother of the House of Rice, an all Asian drag family that has operated out of Chinatown since late 2019. Shay is a seasoned performer known for their stunning visuals and consistent advocacy for Asian visibility in queer communities. Shay has lead an incredible drag career performing locally and internationally, and is the founder and co-producer of Ricecake, a queer and Asian dance party in Vancouver.
 

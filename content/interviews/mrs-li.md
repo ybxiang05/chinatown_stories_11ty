@@ -1,5 +1,5 @@
 ---
-title: Mrs. Li Yu Rong
+title: Li Yu Rong
 subtitle: 李玉荣
 order: 15
 blurb: "Like many transplants here, Mrs. Li fell in love with Vancouver for its temperate climate and crisp air. In this charmingly endearing conversation, Mrs. Li tells us how she communicates with Cantonese-speaking seniors as a Mandarin-speaker, why it’s important to support the Black Lives Matter movement, and how Chinese Canadian history is inextricably intertwined with Indigenous knowledge and generosity. Editors aren’t supposed to play favourites, but this is an interview you will want to read."

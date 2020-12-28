@@ -6,7 +6,7 @@ blurb: "William Liu is the owner and operator of Kam Wai Dim Sum, a dim sum spec
 img: ""
 ---
 
-{% contentImage "kamWai_1of3.jpg", "" %}
+{% contentImage "kamWai_1of3.jpg", "Image of Kam Wai Dim Sum storefront, taken from across the street." %}
 
 **CT:** Can you tell us a bit about your relationship with Chinatown?
 
@@ -26,11 +26,11 @@ img: ""
 
 **CT:** One of the key focuses of this publication is intangible heritage. When you think about Chinatown, are there other ways intangible heritage comes out?
 
-**W:** There are so many intangible elements in Chinatown that I can’t even explain. Just being here in itself is an experience. Growing up, I remember walking through the crowds when it was bustling here. The sounds you would hear, it was just so memorable. I can still hear it in my mind. People yelling at each other, except they weren’t yelling at each other, it was just so loud you had to yell to be heard. And it was such an experience growing up around that. I used to remember all the gonggong pohpohs who would always have candy in their pouches. As a child, you call everybody gonggong and pohpoh, and they would give you candy when you sweet talk them. So I’ve learned to always say hi to your elders and be nice to them, because you’ll get something sweet in return. When you’re walking through the crowds, there are so many smells. The butchers, the seafood mongers, all that fresh seafood. You can also smell the roasted pork going through.Those memories will always stay with me. They’re not something that can be recreated, because you just don’t see or hear that many people in Chinatown anymore, and that’s sad.
+**W:** There are so many intangible elements in Chinatown that I can’t even explain. Just being here in itself is an experience. Growing up, I remember walking through the crowds when it was bustling here. The sounds you would hear, it was just so memorable. I can still hear it in my mind. People yelling at each other, except they weren’t yelling at each other, it was just so loud you had to yell to be heard. And it was such an experience growing up around that. I used to remember all the _gonggong_ _pohpohs_ who would always have candy in their pouches. As a child, you call everybody gonggong and pohpoh, and they would give you candy when you sweet talk them. So I’ve learned to always say hi to your elders and be nice to them, because you’ll get something sweet in return. When you’re walking through the crowds, there are so many smells. The butchers, the seafood mongers, all that fresh seafood. You can also smell the roasted pork going through.Those memories will always stay with me. They’re not something that can be recreated, because you just don’t see or hear that many people in Chinatown anymore, and that’s sad.
 
 **CT:** Kam Wai used to have many more dim sum chefs. What’s changed?
 
-{% contentImage "kamWai_2of3.jpg", "" %}
+{% contentImage "kamWai_2of3.jpg", "Image of shrimp dumplings in a bamboo steamer and other dim sum items" %}
 
 **W:** This, to me, ties into the decline of foot traffic in Chinatown. In the early 90s, when Kam Wai first opened, we had 20 chefs here working until close to midnight. Dim Sum chefs will typically work in their own restaurants from 7 AM to 3 PM, and they have the rest of the day off. We would have had people come in at 3:30 PM, and work until 11 PM or 12 AM at night just to keep up with the demand for our products. At the time frozen dimsum was still really new. It was super convenient, and people knew it was freshly made the day of, especially with the buns. I remember the buns would come out of the steamer, and people would grab them out of the steam trays. They were piping hot, and as a child, I thought it was hilarious, watching adults grab plastic bags and shoving buns into them. That’s a fun memory, seeing people fight over a 叉燒包 (BBQ pork bun).
 
@@ -65,7 +65,7 @@ are trying our best to do well, even through the COVID-19 pandemic. I think real
 
 **CT:** What are some ways that Kam Wai can be supported in this time, throughout the pandemic, and whatever the future of Chinatown might look like?
 
-{% contentImage "kamWai_3of3.jpg", "" %}
+{% contentImage "kamWai_3of3.jpg", "Image of association buildings in Vancouver's Chinatown." %}
 
 **W:** I want people to be educated, and for them to learn about Chinatown. I want people to experience Chinatown firsthand. I want them to visit businesses, to talk to business owners, ask them how they’re doing, look at their customers, and try to take it in. I want people to just experience Chinatown and see the folks in Chinatown. I guess that’s not really supporting Kam Wai in particular.
 
