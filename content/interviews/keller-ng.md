@@ -2,7 +2,7 @@
 title: Keller Ng
 subtitle: Bamboo Village
 order: 12
-blurb: "Bamboo Village is located at 135 East Pender. Identifiable by its iconically round overhead signage, walking into Bamboo Village is stepping into a dreamscape oasis illuminated by timid red paper lanterns that hide behind an overgrown forest of houseplants. Keller Ng and her husband Dixon have been curating Bamboo Village’s eclectic collection of furniture, souvenirs, and home decor for 30 years. In this interview, Keller chats with us about Chinatown’s golden period, and the ways in which Bamboo Village has had to adapt to the ever-changing demands of a shifting client demographic. Spoiler: the answer is always more houseplants. Visit Bamboo Village at www. bamboovillage.ca. You can follow Bamboo Village on Instagram @bamboovillageco."
+blurb: "Bamboo Village is located at 135 East Pender. Identifiable by its iconically round overhead signage, walking into Bamboo Village is stepping into a dreamscape oasis illuminated by timid red paper lanterns that hide behind an overgrown forest of houseplants. Keller Ng and her husband Dixon have been curating Bamboo Village’s eclectic collection of furniture, souvenirs, and home decor for 30 years. In this interview, Keller chats with us about Chinatown’s golden period, and the ways in which Bamboo Village has had to adapt to the ever-changing demands of a shifting client demographic. Spoiler: the answer is always more houseplants. Visit Bamboo Village online at <a href='www.bamboovillage.ca'>www.bamboovillage.ca</a>. You can also follow Bamboo Village on Instagram <a href='https://www.instagram.com/bamboovillageco/'>@bamboovillageco</a>."
 ---
 
 {% contentImage "bambooVillage_1of5.jpg", "" %}

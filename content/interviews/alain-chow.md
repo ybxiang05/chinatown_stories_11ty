@@ -20,17 +20,19 @@ img: ""
 **CT:** Why is Vancouver’s Chinatown important to you?
 
 **A:** Chinatown is home to me in its own sense. I’ve spent the last nine years here, almost everyday. I’m now part business owner, I work here everyday, and I support businesses here. It’s a place of refuge for my culture, because it’s a repository for our food, our language, and
-our ethnicity. It’s a place of belonging. **CT:** What’s your fondest memory in Chinatown?
+our ethnicity. It’s a place of belonging.
+
+**CT:** What’s your fondest memory in Chinatown?
 
 **A:** My fondest memory would be the opening of Kissa Tanto. I’ve been working in restaurants for almost 20 years now, and it’s always been a dream of mine to be a restaurateur. When the opportunity presented itself, it was a lifelong dream come true. Everything in that first year of when Kissa Tanto first opened was a happy memory for me.
 
-{% contentImage "baoBei_2of5.jpg", "Bao Bei restaurant interior. Rustic wood planks afixed vertically along the wall from floor to ceiling are decorated with tarnished antique silver trays. Bins of  groceries in paper bags are placed against the wall." %}
+{% contentImage "baoBei_2of5.jpg", "Bao Bei restaurant interior. Rustic wood planks afixed vertically along the wall from floor to ceiling are decorated with tarnished antique silver trays. Bins of groceries in paper bags are placed against the wall." %}
 
 **CT:** What does resilience mean to you?
 
 **A:** It means putting in continuous effort in the face of adversity. Chinatowns around the world are all examples of resilience, especially this year. The fact that we’re all still here, not throwing in the towel and moving to another neighbourhood, means we believe in this neighbourhood, and believe in the people of this neighbourhood. I think that’s a good example of resilience. It’s been a difficult year for everyone, but working and being involved in this neighbourhood makes it feel like there’s been more adversity here than in others.
 
-{% contentImage "baoBei_3of5.jpg", "View of the bar. Liquor bottles of various colours and sizes are lined in tiers along the wall, above this display is a large tarnished mirror with a sign on the bottom left that reads "Don't shoot the bartender, he's half shot already". In the foreground are two paper bags with groceries. Leafy green vegetables peek out from on the of bags." %}
+{% contentImage "baoBei_3of5.jpg", "View of the bar. Liquor bottles of various colours and sizes are lined in tiers along the wall, above this display is a large tarnished mirror with a sign on the bottom left that reads 'Don't shoot the bartender, he's half shot already'. In the foreground are two paper bags with groceries. Leafy green vegetables peek out from on the of bags." %}
 
 **CT:** What does resilience mean to you?
 
@@ -62,7 +64,7 @@ our ethnicity. It’s a place of belonging. **CT:** What’s your fondest memory
 
 **A:** Chinatown Cares is an initiative started by Chinatown Today, Yarrow Intergenerational Society for Justice, and the hua foundation. In the first couple of days after lock down, the folks at hua foundation reached out to me about helping out the seniors in the community. I jumped on board because food security is important to me. I volunteer for the Greater Vancouver Food Bank, and Bao Bei supports the Chinatown Seniors Community Kitchen. Logistically there was a bunch of food at the restaurants that needed to be repurposed. The program ended up being a way of getting culturally appropriate groceries out to the seniors, plus some cooked food for those that wanted it. With my contacts with local suppliers, we could order the products from the grocery stores in Chinatown, I could cook in the kitchen, and we could use the floor space to package and distribute groceries. Bao Bei was a natural fit to be the staging area.
 
-{% contentImage "baoBei_4of5.jpg", "Close up shot of staff member packing groceries. They hold a plastic bag open with their right hand as they place a bunch of cilantro into the bag. The box they stand in front of reads "green onions." %}
+{% contentImage "baoBei_4of5.jpg", "Close up shot of staff member packing groceries. They hold a plastic bag open with their right hand as they place a bunch of cilantro into the bag. The box they stand in front of reads 'green onions'." %}
 
 **CT:** Are there things you’ve learned or have been surprised about through this experience of participating in Chinatown Cares?
 

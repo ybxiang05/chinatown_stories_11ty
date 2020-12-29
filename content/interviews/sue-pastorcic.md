@@ -2,10 +2,11 @@
 title: Sue Pastorcic
 subtitle: Embers Eastside Works
 order: 7
-blurb: |
-  "Sue Pastorcic works for the Chinatown Community Stewardship Program through Embers Eastside Works. Community Stewards like Sue serve as neighbourhood diplomats who help to bridge the communication gaps between business owners and homeless folks who often share the area we call Chinatown. They also help to beautify the neighbourhood and keep it safe by picking up litter and used needles. In this interview, Sue chats with Chinatown Today about her experiences taking care of Chinatown businesses as well as the folks on the streets throughout the pandemic. You can follow Embers on Instagram @embers.org and Atira @freeofviolence
+blurb: "
+  <p>Sue Pastorcic works for the Chinatown Community Stewardship Program through Embers Eastside Works. Community Stewards like Sue serve as neighbourhood diplomats who help to bridge the communication gaps between business owners and homeless folks who often share the area we call Chinatown. They also help to beautify the neighbourhood and keep it safe by picking up litter and used needles. In this interview, Sue chats with <em>Chinatown Today</em> about her experiences taking care of Chinatown businesses as well as the folks on the streets throughout the pandemic. You can follow Embers on Instagram <a href='https://www.instagram.com/embersorg/'>@embersorg</a> and Atira Women's Resource Society <a href='https://www.instagram.com/freeofviolence/'>@freeofviolence</a></p>
 
-  Please note this interview mentions substance use and sexual assault"
+<p><strong>Please note this interview mentions substance use and sexual assault.</strong></p>"
+
 img: ""
 ---
 

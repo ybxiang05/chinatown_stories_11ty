@@ -5,37 +5,37 @@ order: 14
 img: ""
 ---
 
-Porcelain
-was desired for its resiliency
-& the ability to paint attractive images
-upon its surface
+Porcelain<br>
+was desired for its resiliency<br>
+& the ability to paint attractive images<br>
+upon its surface<br>
 
-“White gold”
-it was called
-in eighteenth-century Europe
+“White gold”<br>
+it was called<br>
+in eighteenth-century Europe<br>
 
-“Porcelain”
-my flesh is called
-in this-century North America
+“Porcelain”<br>
+my flesh is called<br>
+in this-century North America<br>
 
-my mother was once presented
-with the following unsolicited theory:
-“white women are strong on the outside but weak on the inside
-Asian women are weak on the outside but strong on the inside”
+my mother was once presented<br>
+with the following unsolicited theory:<br>
+“white women are strong on the outside but weak on the inside<br>
+Asian women are weak on the outside but strong on the inside”<br>
 
-this bullshit (in a china shop)
-we sit through and endure
+this bullshit (in a china shop)<br>
+we sit through and endure<br>
 
-Why
-does it have to be about marking
-which parts of us
-are prone to breaking?
+Why<br>
+does it have to be about marking<br>
+which parts of us<br>
+are prone to breaking?<br>
 
-And
-what does it have to do
-with surface—
-considering china
-is made from the kilned
-ground-up
-bones
-of dead animals
+And<br>
+what does it have to do<br>
+with surface—<br>
+considering china<br>
+is made from the kilned<br>
+ground-up<br>
+bones<br>
+of dead animals<br>
