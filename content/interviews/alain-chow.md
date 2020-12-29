@@ -2,12 +2,12 @@
 title: Alain Chow
 subtitle: Bao Bei Chinese Brasserie
 order: 4
-blurb: "Alain Chow has always dreamed of being a restaurateur. He moved to Vancouver in 2011, and has been the sous chef at Bao Bei Chinese Brasserie for the past eight years. Located at 163 Keefer Street, Bao Bei woos its patrons with a casual and intimate dining experience using flavours borrowed from Chinese diasporas across the globe. Since the pandemic, Bao Bei has served as the staging area for Chinatown Cares, which is a weekly grocery program that delivers culturally appropriate produce and optional cooked meals to Chinese seniors. Alain chats with Chinatown Today about how the pandemic has affected the operation of restaurants, and what 吃苦 (eating bitter) has taught him about resilience. You can follow Bao Bei on Instagram @baobei1."
+blurb: "Alain Chow has always dreamed of being a restaurateur. He moved to Vancouver in 2011, and has been the sous chef at Bao Bei Chinese Brasserie for the past eight years. Located at 163 Keefer Street, Bao Bei woos its patrons with a casual and intimate dining experience using flavours borrowed from Chinese diasporas across the globe. Since the pandemic, Bao Bei has served as the staging area for Chinatown Cares, which is a weekly grocery program that delivers culturally appropriate produce and optional cooked meals to Chinese seniors. Alain chats with <em>Chinatown Today</em> about how the pandemic has affected the operation of restaurants, and what 吃苦 (eating bitter) has taught him about resilience. You can follow Bao Bei on Instagram <a href='https://www.instagram.com/baobei1/'> @baobei1 </a>."
 
 img: ""
 ---
 
-{% contentImage "baoBei_1of5.jpg", "Image of Bao Bei Chinese Brasseries store front." %}
+{% contentImage "baoBei_1of5.jpg", "Bao Bei Chinese Brasserie store front in the daytime." %}
 
 **CT:** What do you think of when you think of Chinatown?
 
@@ -24,13 +24,13 @@ our ethnicity. It’s a place of belonging. **CT:** What’s your fondest memory
 
 **A:** My fondest memory would be the opening of Kissa Tanto. I’ve been working in restaurants for almost 20 years now, and it’s always been a dream of mine to be a restaurateur. When the opportunity presented itself, it was a lifelong dream come true. Everything in that first year of when Kissa Tanto first opened was a happy memory for me.
 
-{% contentImage "baoBei_2of5.jpg", "" %}
+{% contentImage "baoBei_2of5.jpg", "Bao Bei restaurant interior. Rustic wood planks afixed vertically along the wall from floor to ceiling are decorated with tarnished antique silver trays. Bins of  groceries in paper bags are placed against the wall." %}
 
 **CT:** What does resilience mean to you?
 
 **A:** It means putting in continuous effort in the face of adversity. Chinatowns around the world are all examples of resilience, especially this year. The fact that we’re all still here, not throwing in the towel and moving to another neighbourhood, means we believe in this neighbourhood, and believe in the people of this neighbourhood. I think that’s a good example of resilience. It’s been a difficult year for everyone, but working and being involved in this neighbourhood makes it feel like there’s been more adversity here than in others.
 
-{% contentImage "baoBei_3of5.jpg", "" %}
+{% contentImage "baoBei_3of5.jpg", "View of the bar. Liquor bottles of various colours and sizes are lined in tiers along the wall, above this display is a large tarnished mirror with a sign on the bottom left that reads "Don't shoot the bartender, he's half shot already". In the foreground are two paper bags with groceries. Leafy green vegetables peek out from on the of bags." %}
 
 **CT:** What does resilience mean to you?
 
@@ -62,7 +62,7 @@ our ethnicity. It’s a place of belonging. **CT:** What’s your fondest memory
 
 **A:** Chinatown Cares is an initiative started by Chinatown Today, Yarrow Intergenerational Society for Justice, and the hua foundation. In the first couple of days after lock down, the folks at hua foundation reached out to me about helping out the seniors in the community. I jumped on board because food security is important to me. I volunteer for the Greater Vancouver Food Bank, and Bao Bei supports the Chinatown Seniors Community Kitchen. Logistically there was a bunch of food at the restaurants that needed to be repurposed. The program ended up being a way of getting culturally appropriate groceries out to the seniors, plus some cooked food for those that wanted it. With my contacts with local suppliers, we could order the products from the grocery stores in Chinatown, I could cook in the kitchen, and we could use the floor space to package and distribute groceries. Bao Bei was a natural fit to be the staging area.
 
-{% contentImage "baoBei_4of5.jpg", "" %}
+{% contentImage "baoBei_4of5.jpg", "Close up shot of staff member packing groceries. They hold a plastic bag open with their right hand as they place a bunch of cilantro into the bag. The box they stand in front of reads "green onions." %}
 
 **CT:** Are there things you’ve learned or have been surprised about through this experience of participating in Chinatown Cares?
 
@@ -70,7 +70,7 @@ our ethnicity. It’s a place of belonging. **CT:** What’s your fondest memory
 
 **CT:** Just having a sense of community has been so important, because COVID-19 can be so isolating. Did you have any big fears or worries during these times? How have they affected your mental health?
 
-**A:** I definitely had some existential angst about whether this is the end of civilization as we know it. It was an exhausting March and April, being in lockdown while still trying to make sense of it all, and to take care of my family, my staff, and the restaurants. I threw myself into work, because work is what made sense, and it was at least a constant I could look forward to. Mental health was definitely a big challenge. I came down into Chinatown during lockdown everyday, and I was worried about the community here, transmission rates, as well as vandalism. But going back to the word resilience, I recently came across a zine called Eat Bitter, which is 吃苦 in Chinese. It’s something I’ve heard throughout my life, and definitely felt like I was eating a lot of bitter March through May. I think resilience is in our genetic make up. I ate a lot of bitter, and I try really hard not to regurgitate it. Sometimes I can’t help it.
+**A:** I definitely had some existential angst about whether this is the end of civilization as we know it. It was an exhausting March and April, being in lockdown while still trying to make sense of it all, and to take care of my family, my staff, and the restaurants. I threw myself into work, because work is what made sense, and it was at least a constant I could look forward to. Mental health was definitely a big challenge. I came down into Chinatown during lockdown everyday, and I was worried about the community here, transmission rates, as well as vandalism. But going back to the word resilience, I recently came across a zine called _Eat Bitter_, which is 吃苦 in Chinese. It’s something I’ve heard throughout my life, and definitely felt like I was eating a lot of bitter March through May. I think resilience is in our genetic make up. I ate a lot of bitter, and I try really hard not to regurgitate it. Sometimes I can’t help it.
 
 **CT:** Speaking of people pulling together and organizing, have you seen much of the Black Lives Matter movement?
 
@@ -89,4 +89,4 @@ understand that I don’t see everything from their point of view, but anecdotal
 
 **A:** I’ve been spending time with my partner and her family. She is Chinese-Venezualan, and with the recent upheaval in Venezuela, her entire family has moved here and live under one roof. I spend a lot of time with them now, which gives me happiness. They’re a hospitality family as well. They own Chinese restaurants in Venezuela, so everything is centered around food. That’s totally in my wheelhouse. We eat a lot, everybody takes turns cooking, we all sit around a giant round table with a spinning centre, just like at Chinese restaurants. It’s good to spend time with them and decompress.
 
-{% contentImage "baoBei_5of5.jpg", "" %}
+{% contentImage "baoBei_5of5.jpg", "Kissa Tanto restaurant store front in the daytime, it appears to be closed." %}
