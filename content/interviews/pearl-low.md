@@ -1,15 +1,15 @@
 ---
 title: Pearl Low
 order: 17
-blurb: |
-  Pearl Low is an Academy Award-winning queer Afro-Asian storyboard artist, comic artist, and illustrator. Born and raised on the Eastside of Vancouver, Pearl’s art is consciously rooted in themes of self-love, acceptance, culture, and race. Earlier this year, Pearl added muralist to her long list of artistic accomplishments. Her piece titled Precious Fruit on Davie Street is a pop of colour and warmth in an otherwise white space. Chinatown Today sat down with Pearl to talk about her evolving relationship with Chinatown and Chineseness, being Black in Vancouver, and why it’s so important to highlight Black joy in daily existence. Read on to find out what Pearl has to say about the role of storytelling, and the importance of seeing ourselves represented in the media we consume.
+blurb:
+  <p>Pearl Low is an Academy Award-winning queer Afro-Asian storyboard artist, comic artist, and illustrator. Born and raised on the Eastside of Vancouver, Pearl’s art is consciously rooted in themes of self-love, acceptance, culture, and race. Earlier this year, Pearl added muralist to her long list of artistic accomplishments. Her piece titled <em>Precious Fruit</em> on Davie Street is a pop of colour and warmth in an otherwise white space. Chinatown Today sat down with Pearl to talk about her evolving relationship with Chinatown and Chineseness, being Black in Vancouver, and why it’s so important to highlight Black joy in daily existence. Read on to find out what Pearl has to say about the role of storytelling, and the importance of seeing ourselves represented in the media we consume.</p>
 
-  You can follow Pearl on Instagram @fumichun.
+  <p>You can follow Pearl on Instagram <a href='https://www.instagram.com/fumichun/'>@fumichun</a>.</p>
 
 img: ""
 ---
 
-{% contentImage "pearlLow_1of5.jpg", "" %}
+{% contentImage "pearlLow_1of5.jpg", "Pearl Low poses in front of her mural titled Precious Fruit. In the centre of the mural is a Black person with their braids pulled up into a bun while loose strands near their temples frame their face. They smile softly against the backdrop of a yellow circle, representing the sun. They are flanked by branches of orange trees, bearing ripe fruits and vibrant green leaves." %}
 
 **CT:** What’s your relationship to Chinatown?
 
@@ -47,7 +47,7 @@ I want us to keep expanding and pushing for other narratives to be at the forefr
 
 **P:** I think it’s an often underestimated category because people forget how smart kids are. I think it’s crucial to introduce them to all sorts of perspectives, especially now, when we’re having more conversations around representation in the media. I’m biased because I love cartoons, but kids’ stories can be thought-provoking, even for adults. There’s just so much that can be imagined and explored within the children’s genre.
 
-{% contentImage "pearlLow_2of5.jpg", "" %}
+{% contentImage "pearlLow_2of5.jpg", "Pearl smiles brightly into the camera. This is a selfie. Her hair is dyed blonde and in loose curls, she wears hoop earrings, a septum piercing, a yellow t-shirt from Cantonese school, and a small, round jade pendant around her neck." %}
 
 **CT:** Do you find it challenging to work with larger studios for shows that have an all-white or all heteronormative cast where it might be very
 different from your lived experiences?
@@ -56,11 +56,11 @@ different from your lived experiences?
 
 **CT:** How did you get to this point where you’re able to influence these decisions?
 
-**P:** In 2019, which feels like so long ago, I wanted to quit the animation industry. I felt as if I were just a pair of drawing hands, hired to carry out the director’s vision, even though I wanted to get into animation so I can provide creative input for story aspects. I felt like I wasn’t being heard. It shouldn’t be a privilege to bring your whole self to a project. That’s when I started exploring comics, where I could do my own storytelling. In 2019, one of the co-directors of Hair Love ended up reading my autobiographical comic called Tension, and he reached out to me to see if I was free.
+**P:** In 2019, which feels like so long ago, I wanted to quit the animation industry. I felt as if I were just a pair of drawing hands, hired to carry out the director’s vision, even though I wanted to get into animation so I can provide creative input for story aspects. I felt like I wasn’t being heard. It shouldn’t be a privilege to bring your whole self to a project. That’s when I started exploring comics, where I could do my own storytelling. In 2019, one of the co-directors of <em>Hair Love</em> ended up reading my autobiographical comic called <em>Tension</em>, and he reached out to me to see if I was free.
 
-{% contentImage "pearlLow_3of5.jpg", "" %}
+{% contentImage "pearlLow_3of5.jpg", "A page from Pearl's comic titled Tension. On this page, a young Pearl contemplates her insecurities about her curly hair, and decides to straighten her hair for weeks." %}
 
-Hair Love was my foot in the door to the LA industry. That was my first experience working on a project that was telling a story I cared about, and had characters that look like me. From that point on, I worked towards making connections in the LA animation industry. I’m now working with more Black creatives than I have ever worked with in my entire life, and it’s refreshing because in these spaces, I can exercise my perspective much more than before. I had to metaphorically leave Vancouver to find what was good for me.
+<em>Hair Love</em> was my foot in the door to the LA industry. That was my first experience working on a project that was telling a story I cared about, and had characters that look like me. From that point on, I worked towards making connections in the LA animation industry. I’m now working with more Black creatives than I have ever worked with in my entire life, and it’s refreshing because in these spaces, I can exercise my perspective much more than before. I had to metaphorically leave Vancouver to find what was good for me.
 
 **CT:** What are your thoughts on the connection between art and gentrification?
 
@@ -78,7 +78,7 @@ Hair Love was my foot in the door to the LA industry. That was my first experien
 
 **P:** For me, a huge part is financial support, especially from businesses that aren’t native to Chinatown. It would be cool if restaurants in Chinatown could host lunch for seniors, make lunch boxes, or offer free coffee or tea with a bun to those who have been in these communities for a long time as a way of giving back. I feel like Vancouver has an interesting struggle with cultivating community, where we tend to stay in our cultural enclaves. People will say Vancouver is multicultural, but I don’t feel like people individually mingle outside of their own respective communities. What are these elders going to do? They don’t have the language, they don’t have the same resources as other folks who also occupy Chinatown. That’s a gap that needs to be bridged. I just want white people to try. It might be exhausting to you at first because the work is new, but it pushes you to exercise empathy in a way you’ve never had to before. That’s what growth is.
 
-{% contentImage "pearlLow_5of5.jpg", "" %}
+{% contentImage "pearlLow_5of5.jpg", "A digital art self-portrait of sorts. Pearl draws herself in matching outfits with her much shorter Chinese grandmother. The senior is leaning on a cane. She wears a green bucket hat and a purple ensemble complete with a purple cardigan with magenta flower patterns, purple pants, and purple shoes. Pearl is wearing a yellow button up under a floral cardigan covered in pink flowers and green leaves. She completes her outfit with gray pants and black sneakers." %}
 
 **CT:** It’s one of those things where if it’s easy, you’re probably not doing enough. I find that even as an East Asian person, I constantly need to check my privilege, especially in Chinatown. When we think of Chinatown as a community, it’s so much more intersectional than what we make it out to be. What are your thoughts on the current relationship between Chinatown and Hogan’s Alley, and the difficulties of facilitating conversations between different communities?
 
@@ -100,7 +100,7 @@ Hair Love was my foot in the door to the LA industry. That was my first experien
 
 **P:** My identity has a lot of intersections, and I feel like my entire existence is resilience. I’m Black, I’m queer, I’m an artist, and resilience to me means being my most authentic self. Resilience is creating and maintaining space in the face of white supremacy, which can look different for every community, because different communities need different support. It’s also about helping others hold space for themselves. We exist and move through the world in different capacities, and I think that’s important to recognize when talking about resilience.
 
-{% contentImage "pearlLow_4of5.jpg", "" %}
+{% contentImage "pearlLow_4of5.jpg", "Another digital art self-portrait of sorts. Pearl draws herself holding up matching peace signs with her Chinese grandmother. This time, the senior is wearing a yellow beret, a green puffer vest over a long-sleeve black shirt, pink pants with purple flowers, white socks, and green Nike running shoes. Pearl wears a matching green puffer vest over a black crop top, purple pants with pink flowers, high white socks, and green sneakers. She accessorizes with a green fannypack." %}
 
 **CT:** You talked about resilience as existing and working through white supremacy and colonial practices. What does that look like in your daily practice?
 

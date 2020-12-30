@@ -56,7 +56,7 @@ I feel a responsibility to not only be a practitioner but to teach and promote i
 
 **M:** When you work with an organization like the LSG, it’s important to remember that the things you talk about have real impact. It’s easier to remember what being in Chinatown feels like during meetings when you’re walking the streets all the time. Sometimes it can be hard to remember why you’re meeting when you’re debating policies and programs all day. Being resilient on that front means remembering that the reason you’re there is so you can have a wider influence to help shape policies that will affect the people in Chinatown.
 
-{% contentImage "chauLuen_4of5.jpg", "A photographer is captured laying down in prone position on the sidewalk with residual snow between its cracks, capturing a snapshot of the raised lion head during a parade performance from below. 正所谓，螳螂捕蝉，黄雀在后." %}
+{% contentImage "chauLuen_4of5.jpg", "A photographer is captured laying down in prone position on the sidewalk with residual snow between its cracks, capturing a snapshot of the raised lion head during a parade performance from below. <span lang='zh'>正所谓，螳螂捕蝉，黄雀在后</span>." %}
 
 **CT:** What has been the biggest worry for you during this pandemic?
 

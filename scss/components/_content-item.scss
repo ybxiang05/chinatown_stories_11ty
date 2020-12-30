@@ -10,15 +10,15 @@
 }
 
 .content-item__blurb,
-.content-item__main  {
+.content-item__main {
   display: block;
   width: 90%;
-  max-width:  48rem;
+  max-width: 48rem;
   margin-left: auto;
   margin-right: auto;
 }
 
-.content-item__main  {
+.content-item__main {
   img {
     display: block;
     position: relative;
@@ -34,6 +34,18 @@
   & > *:last-child {
     margin-bottom: 0;
   }
+}
+.foreword__quotation2 {
+  text-align: end;
+}
+
+.foreword__source {
+  font-size: 1rem;
+  text-align: end;
+}
+
+.foreword__signoff {
+  margin-left: 70%;
 }
 
 @media (min-width: 48em) {
