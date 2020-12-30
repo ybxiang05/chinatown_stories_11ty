@@ -2,19 +2,19 @@
 title: Shay Dior & Maiden China
 subtitle: House of Rice
 order: 14
-blurb: |
-  "Shay Dior (Van Dang) is the founding House Mother of the House of Rice, an all Asian drag family that has operated out of Chinatown since late 2019. Shay is a seasoned performer known for their stunning visuals and consistent advocacy for Asian visibility in queer communities. Shay has lead an incredible drag career performing locally and internationally, and is the founder and co-producer of Ricecake, a queer and Asian dance party in Vancouver.
+blurb:
+  "<p>Shay Dior (Van Dang) is the founding House Mother of the House of Rice, an all Asian drag family that has operated out of Chinatown since late 2019. Shay is a seasoned performer known for their stunning visuals and consistent advocacy for Asian visibility in queer communities. Shay has lead an incredible drag career performing locally and internationally, and is the founder and co-producer of Ricecake, a queer and Asian dance party in Vancouver.</p>
 
-  Queen Maiden China (Kendell Yan) is a drag performer in the House of Rice. As a mixed-race artist, Maiden explores her relationship to her Chinese heritage in nuanced and provocative ways. Her work is a constant renegotiation of what it means to be Chinese, which asks the viewer to question the role of tradition in one’s embodiment of culture.
+  <p>Queen Maiden China (Kendell Yan) is a drag performer in the House of Rice. As a mixed-race artist, Maiden explores her relationship to her Chinese heritage in nuanced and provocative ways. Her work is a constant renegotiation of what it means to be Chinese, which asks the viewer to question the role of tradition in one’s embodiment of culture.</p>
 
-  Shay and Maiden sit down with Chinatown Today to chat about the role of drag in the fight for social justice, how art helps them recover their otherwise alienated identities, and what it’s like to reclaim Chinatown as queer people of colour.
+  <p>Shay and Maiden sit down with Chinatown Today to chat about the role of drag in the fight for social justice, how art helps them reconnect with their alienated and marginalized identities, and what it’s like to reclaim Chinatown as queer people of colour.</p>
 
-  You can follow Shay and Maiden on Instagram @thatshaydior // @queenmaidenchina."
+  <p>You can follow Shay Dior and Maiden China on Instagram respectively at <a href='https://www.instagram.com/thatshaydior/'>@thatshaydior</a> and <a href='https://www.instagram.com/queenmaidenchina/'>@queenmaidenchina</a>.</p>"
 
 img: ""
 ---
 
-{% contentImage "houseOfRice_1of11.jpg", "" %}
+{% contentImage "houseOfRice_1of11.jpg", "The locked side gate of Dr. Sun-Yat-Sen Park. Branches of a tulip tree, heavy with vibrant green leaves, fall over the white garden wall." %}
 
 **CT:** Can you tell us about your relationship to Vancouver’s Chinatown?
 
@@ -30,7 +30,7 @@ img: ""
 
 **M/K:** It’s silly now, but when I went to Chinatown with my dad as a kid, I would think we were going to China. Looking back, that was just the most obvious way of understanding the cultural exchange as a kid, because Chinatown felt like a very removed space. Now I’m part of this space, and I see the same people on the street everyday. Chinatown sits on the edge of the Downtown Eastside, and has very complex relationships and histories. By living here, I become part of these relationships as well as patterns of gentrification. I was manager at a queer venue just outside Chinatown, and was laid off work because of COVID-19. Because of this, I’m now in a position where I rarely leave the community and the neighbourhood. As an artist who’s starting out, and as a kid who grew up in a mixed household, I often felt like an outsider even in my own culture. Because I’m so immersed in Chinatown now, I’m beginning to feel more like a part of the community.
 
-{% contentImage "houseOfRice_2of11.jpg", "" %}
+{% contentImage "houseOfRice_2of11.jpg", "Maiden China in drag. Her long, black hair is pulled into a large hive that sits on top of her head. Her face is intricately painted in the style of Peking opera, but done so asymmetrically and with hints of abstractness. A red sheer ruffle collar obscures her chin." %}
 
 **S/V:** I’ve travelled a lot, and I always find comfort in Chinatowns everywhere I go, especially because of the food. Vancouver’s Chinatown felt intimidating at first because there weren’t a lot of shops open. I don’t know if it’s because I feel more comfortable in the space now, or if there’s a growth in the number of shops, but now the intimidation has completely worn off, and I come to Chinatown quite often. Since COVID-19, I haven’t been able to come out here as much, especially because I’m a full-time frontline worker. A lot of my free time was spent self-isolating and on self-care because I’m in contact with a lot of customers. I didn’t want to risk bringing that to Kendell, so I had to separate myself from Chinatown for a while.
 
@@ -72,7 +72,7 @@ img: ""
 
 **M/K:** I think that’s been a focal point of my literal transformation. Like Van was saying, there are elements of the virus experience that have been a bit of a gift. Before COVID-19, I spent so much time working that I didn’t have time to spend with myself. Now it’s the inverse, and I’m finally able to confront all these things that I’ve been processing since I was a kid but have never actually looked at in the face for what they are. Now I’m able to love that about myself.
 
-{% contentImage "houseOfRice_3of11.jpg", "" %}
+{% contentImage "houseOfRice_3of11.jpg", "A still of Shay Dior in drag from their piece titled 'Contaminated by Racism'. Shay faces away from the camera, but we see their face reflected in the mirror in front of them. They have on a black cloth mask. The room is dark. We see Shay with their eyes downcast, which emphasizes their dramatic eye makeup and eyelash extensions." %}
 
 **CT:** What is a message that you want to convey with your art?
 
@@ -86,8 +86,8 @@ img: ""
 
 **M/K:** I think we’re both on a little bit of a performance break. I’ve done a few fundraisers where the revenue is donated to an organization. I recently did a number reciting Mark Aguahar’s poem “Litanies to My Heavenly Brown Body”, which was very important to me. I think the yellowing of bodies is a further division from brownness in how I conceive those things. I think making art that sparks difficult conversations has been important to me. This virus has brought an upsurge of anti-Asian racism. The model minority myth has real implications in the world especially in North America, but it doesn’t protect you from being perceived as the yellow peril. This yellow peril sentiment can be turned on at any time, and if you are in a certain space, there is so much rhetoric that can be used against you regardless of how much material possessions, land, or success you’ve accumulated, because of the white lens.
 
-{% contentImage "houseOfRice_4of11.jpg", "" %}
-{% contentImage "houseOfRice_5of11.jpg", "" %}
+{% contentImage "houseOfRice_4of11.jpg", "Still of Shay from 'Contaminated by Racism'. Shay has a closely cropped head, they're wearing a black leather choker, and a silver earring dangles from their left ear. They have a black biohazard symbol painted over their mouth. They look at their reflection in the mirror, and gently places their right hand on the glass surface."  %}
+{% contentImage "houseOfRice_5of11.jpg", "Still from 'Contaminated by Racism'. Shay faces away from the camera, they stand with their hands against a screen, onto which is projected representations of coronavirus particles in a greenish yellow tinge. Shay tries to cover overhead text that reads, ‘Despite the increase of xenophobia nad racism, TRUMP continues to call coronavirus “The Chinese virus”’." %}
 
 **S/V:** I’m Vietnamese and South East Asian. I have darker skin. Growing up, I’ve always been under the impression that having darker skin is not as desirable as having lighter skin, because darker skin means you’re poor, and your family is working class or farmers. I really had to learn to deconstruct and unlearn that over the last little while. It’s been impactful, and I think it’s an important conversation that comes from the Aguahar poem.
 
@@ -97,14 +97,13 @@ img: ""
 
 **S/V:** It’s also important to realize that even though there is so much racism right now, it isn’t the worst that’s happened. Queer and Asian communities have both persevered and survived for long enough that we’ve been able to be ourselves and make space for ourselves. As a demographic, we’ve gone through racism, we’ve gone through the hate, we’ve gone through the struggles. It’s not the end of the world, as much as it might seem like it.
 
-{% contentImage "houseOfRice_6of11.jpg", "" %}
-{% contentImage "houseOfRice_7of11.jpg", "" %}
+{% contentImage "houseOfRice_6of11.jpg", "Still from 'Contaminated by Racism'. Shay lays on their side in fetal position against a black backdrop. They're wearing a black choke collar, fingerless black leather gloves, a sheer black tank top, and black shorts." %}
 
 **CT:** Was it important to you to have these events at the Sun YatSen Garden in Chinatown?
 
 **M/K:** It’s important to me. I think Sun Yat-Sen Garden is a beautiful space that has very scholarly connotations. Having this queer opera and queer immersive drag experience in this space goes back to our earlier conversation about not divorcing queer political experiences from academia or a party sphere. It’s really about blending those things together.
 
-{% contentImage "houseOfRice_10of11.jpg", "" %}
+{% contentImage "houseOfRice_10of11.jpg", "Photo taken from inside Dr. Sun Yat-Sen Garden. The koi pond is lined with trees in green foliage. Across the water, crowds gather in the garden for Pride in Chinatown. It is dusk, and the light in the pavilion is reflected in the pond." %}
 
 **S/V:** We don’t live one-note lives.
 
@@ -112,9 +111,9 @@ img: ""
 
 **S/V:** It’s about being able to be all our identities in one space, rather than feeling like we have to reserve parts of our identities for certain spaces and certain times. Obviously timing and space are important, but it’s important to be able to explore everyone’s identities in a safe way. Just knowing that we could bring our queer selves to the Sun Yat-Sen Garden and to Chinatown was an important experience.
 
-{% contentImage "houseOfRice_7of11.jpg", "" %}
-{% contentImage "houseOfRice_8of11.jpg", "" %}
-{% contentImage "houseOfRice_9of11.jpg", "" %}
+{% contentImage "houseOfRice_7of11.jpg", "Still from 'Contaminated by Racism'. Shay stands against a green background. A blue medical mask covers their face below the nose, and it reads, ‘I am an artist’." %}
+{% contentImage "houseOfRice_8of11.jpg", "Still from 'Contaminated by Racism'. Shay stands against the same green background, now covered in projected moving lights in green, red, pink, and purple. They are wearing multiple medical masks, the one on top reads, ‘I am not a virus!’" %}
+{% contentImage "houseOfRice_9of11.jpg", "Still from 'Contaminated by Racism'. Shay stands against the same green background, wearing multiple medical masks. The one on top reads, ‘and I work on the frontline’." %}
 
 **CT:** What does that mean to you to have your studio in Chinatown?
 
@@ -130,7 +129,7 @@ img: ""
 
 **S/V:** Checking these boxes is a fine balance, because if we were trying to follow a more traditional route, we would never have queer lion dancing and trying to bring women and femmes into the practice, which is traditionally not allowed. We need to balance respect for tradition while at the same time break barriers so we can include everyone.
 
-{% contentImage "houseOfRice_11of11.jpg", "" %}
+{% contentImage "houseOfRice_11of11.jpg", "The courtyard between the Chinese Cultural Centre and Dr. Sun Yat-Sen Garden at night. The white garden wallis lit up in colours of the rainbow, while people dance in the foreground." %}
 
 **CT:** Speaking of intent and audience, who is your audience?
 
