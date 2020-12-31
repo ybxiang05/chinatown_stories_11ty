@@ -47,6 +47,28 @@
 .foreword__signoff {
   margin-left: 70%;
 }
+.acknowledgement {
+  text-align: center;
+}
+
+.acknowledgement__logos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  img {
+    max-height: 200px;
+    max-width: 200px;
+  }
+}
+.contributors {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  p {
+    margin: auto;
+  }
+}
 
 @media (min-width: 48em) {
   .content-item {

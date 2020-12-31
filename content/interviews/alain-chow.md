@@ -26,7 +26,7 @@ our ethnicity. It’s a place of belonging.
 
 **A:** My fondest memory would be the opening of Kissa Tanto. I’ve been working in restaurants for almost 20 years now, and it’s always been a dream of mine to be a restaurateur. When the opportunity presented itself, it was a lifelong dream come true. Everything in that first year of when Kissa Tanto first opened was a happy memory for me.
 
-{% contentImage "baoBei_2of5.jpg", "Bao Bei restaurant interior. Rustic wood planks afixed vertically along the wall from floor to ceiling are decorated with tarnished antique silver trays. Bins of groceries in paper bags are placed against the wall." %}
+{% contentImage "baoBei_2of5.jpg", "Bao Bei restaurant interior. Rustic wood planks affixed vertically along the wall from floor to ceiling are decorated with tarnished antique silver trays. Bins of groceries in paper bags are placed against the wall." %}
 
 **CT:** What does resilience mean to you?
 
