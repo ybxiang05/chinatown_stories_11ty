@@ -8,4 +8,14 @@
   background-color: var(--color-dark-red);
   color: var(--color-white);
   text-align: center;
+  p {
+    font-size: 0.65em;
+  }
+}
+@media (min-width: 48em) {
+  .land-acknowledgement {
+    p {
+      font-size: 1em;
+    }
+  }
 }
