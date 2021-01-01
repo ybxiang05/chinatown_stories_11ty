@@ -7,6 +7,9 @@
   padding-bottom: 2rem;
   border-bottom: 0.0625rem solid var(--color-red);
   margin-bottom: 2rem;
+  a {
+    color: var(--color-dark-red);
+  }
 }
 
 .content-item__blurb,
@@ -45,19 +48,16 @@
 }
 
 .foreword__signoff {
-  margin-left: 70%;
+  text-align: end;
 }
 .acknowledgement {
   text-align: center;
 }
 
 .acknowledgement__logos {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  img {
-    max-height: 200px;
-    max-width: 200px;
+  .logos {
+    width: 150px;
+    align-items: center;
   }
 }
 .contributors {

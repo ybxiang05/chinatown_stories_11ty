@@ -65,6 +65,8 @@ img: ""
 
 **Favourite item:** Pineapple bun
 
+---
+
 ## Miniature
 
 The last place we had a conversation was at Goldstone Bakery and Restaurant. I hadn’t seen you in almost two years. As usual I ordered baked pork chop on rice. It reminded me of the warmth of friendship. We want things to last forever. Like Forever, Chinatown. That’s why Frank Wong made those miniatures. What would a miniature of Goldstone look like? There’d be so much glue on the table from getting all the booths just right. Hands and eyes would ache measuring from memory, from desire.

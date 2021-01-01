@@ -32,7 +32,7 @@ The interviews and multimedia artwork in this issue highlight both what resilien
 
 <div class='foreword__signoff'>
 
-Your editors, <br>
+Your editors,
 
 Brooke Xiang 向伊凡<br> Tyler 忠男 太明 Mark
 

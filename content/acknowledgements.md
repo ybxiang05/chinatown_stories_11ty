@@ -9,9 +9,9 @@ order: 18
 Funding for this project was provided by the City of Vancouver. We thank the Chinatown Transformation Team, Cultural Services, and the Chinatown Legacy Stewardship Group for their support.
 
 <div class='acknowledgement__logos'>
-{% logos "hua.png", "Hua foundation logo"%}
-{% logos "vancouver.png", "City of Vancouver logo"%}
-{% logos "massy.png", "Massy Books logo"%}
+{% logos "hua.png", "Hua foundation logo", "logos"%}
+{% logos "vancouver.png", "City of Vancouver logo", "logos"%}
+{% logos "massy.png", "Massy Books logo", "logos"%}
 </div>
 
 ## Contributors
