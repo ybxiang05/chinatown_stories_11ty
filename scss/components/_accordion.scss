@@ -23,13 +23,13 @@
 
   &:focus {
     outline: 0.25rem solid transparent;
-    box-shadow:  0 0 0 0.25rem var(--color-red);
+    box-shadow: 0 0 0 0.25rem var(--color-red);
   }
 }
 
 .accordion__toggle-icon {
   position: absolute;
-  top: calc(50% - .75rem);
+  top: calc(50% - 0.75rem);
   right: 1rem;
   fill: var(--color-dark-red);
 }
@@ -42,7 +42,7 @@
     height: 0;
   }
 }
-
+//QUESTION: What's up with the code in the square brackets?? A walk through would be nice if you have time! Thank you!
 .accordion__title {
   margin: 0;
   font-size: 1.25rem;
