@@ -6,7 +6,7 @@ order: 0
 
 ## “...you only have to remember two things, one is, everything in the universe is alive, the other is, we are all relatives”
 
-<h2 class='foreword__quotation2'> …and that is wisdom.<h2>
+<h2 class='foreword__quotation2'> …and that is wisdom.</h2>
 
 <div class='foreword__source'>
 
@@ -17,6 +17,8 @@ Manulani Aluli Meyer
 </div>
 
 {% contentImage "foreword_1of1.jpg", "Lunar New Year wishes written on pieces of red paper hung from the bare branches of a plum tree."%}
+
+---
 
 We often think of resilience as a reaction to external pressures. That is, we define resilience as our ability to bounce back from difficulties and challenges, frequently as some version of “still here... in spite of something else.” Chinatown is still here, in spite of racialized policies. Indigenous communities and cultures are still here, and have always been here, in spite of the individual and systemic violences that have attempted to eradicate them for centuries. We are still here, in spite of the harm and grief COVID-19 has caused our communities.
 
