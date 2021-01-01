@@ -9,7 +9,7 @@ blurb:
 
   <p>Shay and Maiden sit down with Chinatown Today to chat about the role of drag in the fight for social justice, how art helps them reconnect with their alienated and marginalized identities, and what it’s like to reclaim Chinatown as queer people of colour.</p>
 
-  <p>You can follow Shay Dior and Maiden China on Instagram respectively at <a href='https://www.instagram.com/thatshaydior/'>@thatshaydior</a> and <a href='https://www.instagram.com/queenmaidenchina/'>@queenmaidenchina</a>.</p>"
+  <p>You can follow Shay Dior and Maiden China on Instagram respectively at <a target='_blank' href='https://www.instagram.com/thatshaydior/'>@thatshaydior</a> and <a target='_blank' href='https://www.instagram.com/queenmaidenchina/'>@queenmaidenchina</a>.</p>"
 
 img: ""
 ---

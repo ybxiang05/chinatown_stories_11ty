@@ -4,7 +4,7 @@ order: 17
 blurb:
   <p>Pearl Low is an Academy Award-winning queer Afro-Asian storyboard artist, comic artist, and illustrator. Born and raised on the Eastside of Vancouver, Pearl’s art is consciously rooted in themes of self-love, acceptance, culture, and race. Earlier this year, Pearl added muralist to her long list of artistic accomplishments. Her piece titled <em>Precious Fruit</em> on Davie Street is a pop of colour and warmth in an otherwise white space. Chinatown Today sat down with Pearl to talk about her evolving relationship with Chinatown and Chineseness, being Black in Vancouver, and why it’s so important to highlight Black joy in daily existence. Read on to find out what Pearl has to say about the role of storytelling, and the importance of seeing ourselves represented in the media we consume.</p>
 
-  <p>You can follow Pearl on Instagram <a href='https://www.instagram.com/fumichun/'>@fumichun</a>.</p>
+  <p>You can follow Pearl on Instagram <a target='_blank' href='https://www.instagram.com/fumichun/'>@fumichun</a>.</p>
 
 img: ""
 ---

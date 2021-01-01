@@ -2,7 +2,7 @@
 title: Alain Chow
 subtitle: Bao Bei Chinese Brasserie
 order: 4
-blurb: "Alain Chow has always dreamed of being a restaurateur. He moved to Vancouver in 2011, and has been the sous chef at Bao Bei Chinese Brasserie for the past eight years. Located at 163 Keefer Street, Bao Bei woos its patrons with a casual and intimate dining experience using flavours borrowed from Chinese diasporas across the globe. Since the pandemic, Bao Bei has served as the staging area for Chinatown Cares, which is a weekly grocery program that delivers culturally appropriate produce and optional cooked meals to Chinese seniors. Alain chats with <em>Chinatown Today</em> about how the pandemic has affected the operation of restaurants, and what 吃苦 (eating bitter) has taught him about resilience. You can follow Bao Bei on Instagram <a href='https://www.instagram.com/baobei1/'> @baobei1 </a>."
+blurb: "Alain Chow has always dreamed of being a restaurateur. He moved to Vancouver in 2011, and has been the sous chef at Bao Bei Chinese Brasserie for the past eight years. Located at 163 Keefer Street, Bao Bei woos its patrons with a casual and intimate dining experience using flavours borrowed from Chinese diasporas across the globe. Since the pandemic, Bao Bei has served as the staging area for Chinatown Cares, which is a weekly grocery program that delivers culturally appropriate produce and optional cooked meals to Chinese seniors. Alain chats with <em>Chinatown Today</em> about how the pandemic has affected the operation of restaurants, and what 吃苦 (eating bitter) has taught him about resilience. You can follow Bao Bei on Instagram <a target='_blank' href='https://www.instagram.com/baobei1/'> @baobei1 </a>."
 
 img: ""
 ---

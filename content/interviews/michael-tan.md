@@ -2,7 +2,7 @@
 title: Michael Tan
 subtitle: Chau Luen Society
 order: 9
-blurb: "Michael Tan is the director at Chau Luen Society and a co-chair of the Chinatown Legacy Stewardship Group. He is also the kung fu and lion dance instructor at the Chau Luen Athletic Club, an accountant, and a self-proclaimed ninja. Mike chats with <em>Chinatown Today</em> about what keeps him going as a practitioner of Chinese tradition through lion dancing, why more policing isn’t the solution to Chinatown’s problems, and why the plum blossom is a symbol of resilience. Read on to find out how lion dancers cheer up the seniors in the Chau Luen Tower around Lunar New Year. You can follow Chau Luen on Instagram <a href='https://www.instagram.com/chauluenathletics/'>@chauluenathletics</a>."
+blurb: "Michael Tan is the director at Chau Luen Society and a co-chair of the Chinatown Legacy Stewardship Group. He is also the kung fu and lion dance instructor at the Chau Luen Athletic Club, an accountant, and a self-proclaimed ninja. Mike chats with <em>Chinatown Today</em> about what keeps him going as a practitioner of Chinese tradition through lion dancing, why more policing isn’t the solution to Chinatown’s problems, and why the plum blossom is a symbol of resilience. Read on to find out how lion dancers cheer up the seniors in the Chau Luen Tower around Lunar New Year. You can follow Chau Luen on Instagram <a target='_blank' href='https://www.instagram.com/chauluenathletics/'>@chauluenathletics</a>."
 img: ""
 ---
 
