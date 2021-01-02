@@ -1,10 +1,11 @@
-if(document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded',afterDOMLoaded);
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", afterDOMLoaded);
 } else {
   afterDOMLoaded();
 }
 
 function afterDOMLoaded() {
+  vhCheck();
   // animate stuff
   const cover = document.getElementById("cover");
   const logo = document.getElementById("logo");
@@ -38,7 +39,7 @@ function afterDOMLoaded() {
       element.setAttribute("aria-expanded", "true");
     }
   }
-};
+}
 
 function getRect(el) {
   return el.getBoundingClientRect();
