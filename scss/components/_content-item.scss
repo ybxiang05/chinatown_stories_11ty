@@ -7,9 +7,6 @@
   padding-bottom: 2rem;
   border-bottom: 0.0625rem solid var(--color-red);
   margin-bottom: 2rem;
-  a {
-    color: var(--color-dark-red);
-  }
 }
 
 .content-item__blurb,
@@ -37,6 +34,10 @@
   & > *:last-child {
     margin-bottom: 0;
   }
+}
+
+a {
+  color: var(--color-dark-red);
 }
 
 @media (min-width: 48em) {
