@@ -1,5 +1,9 @@
 .acknowledgement {
   text-align: center;
+  ul {
+    list-style: none;
+    padding: 0;
+  }
 }
 
 .acknowledgement__logos {
@@ -7,4 +11,8 @@
     width: 150px;
     align-items: center;
   }
+}
+
+.acknowledgement__long-list {
+  columns: 2;
 }

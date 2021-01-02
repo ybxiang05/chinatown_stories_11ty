@@ -14,73 +14,73 @@ Funding for this project was provided by the City of Vancouver. We thank the Chi
 {% logos "massy.png", "Massy Books logo", "logos"%}
 </div>
 
-## Contributors
+#### Contributors
 
-<ul class='contributors'>
-<li>Alain Chow </li>
-Alyssa Sy de Jesus 施麗莎<br>
-Christina Lee 李嘉明<br>
-Dan Pon<br>
-David Wong<br>
-Derick Cheng<br>
-Emily Dundas Oke<br>
-Jasper Lam<br>
-Jessamine Liu<br>
-Keller Ng<br>
-Kendell Yan (Maiden China)<br>
-Kong Tai 邝太<br>
-Li Yu Rong 李玉荣<br>
-Michael Tan<br>
-nelli v. agbulos<br>
-Pearl Low 盧寶珠<br>
-Sue Pastorcic<br>
-Tray Ma<br>
-Shu Ying Yu<br>
-Van Dang (Shay Dior)<br>
-William Liu
-</ul>
+<ul class="acknowledgement__long-list">
 
-## Goldstone Stories
+- Alain Chow
+- Alyssa Sy de Jesus 施麗莎
+- Christina Lee 李嘉明
+- Dan Pon
+- David Wong
+- Derick Cheng
+- Emily Dundas Oke
+- Jasper Lam
+- Jessamine Liu
+- Keller Ng
+- Kendell Yan (Maiden China)
+- Kong Tai 邝太
+- Li Yu Rong 李玉荣
+- Michael Tan
+- nelli v. agbulos
+- Pearl Low 盧寶珠
+- Sue Pastorcic
+- Tray Ma
+- Shu Ying Yu
+- Van Dang (Shay Dior)
+- William Liu
+  </ul>
 
-Anastasia & Darren Bosc<br>
-Jane Shi<br>
-Jenny<br>
-Juliane Siu<br>
-Lawrence Szeto<br>
-Russell<br>
-Therise Wen Li Lee<br>
-Vivian Wong<br>
-Vedrana
+#### Goldstone Stories
 
-## Translations
+- Anastasia & Darren Bosc
+- Jane Shi
+- Jenny
+- Juliane Siu
+- Lawrence Szeto
+- Russell
+- Therise Wen Li Lee
+- Vivian Wong
+- Vedrana
 
-Angela Ho 何嘉雯<br>
-Brooke Xiang 向伊凡<br>
-Carmut Me 米家宓<br>
-Wilson Liang
+#### Translations
 
-## Committee
+- Angela Ho 何嘉雯
+- Brooke Xiang 向伊凡
+- Carmut Me 米家宓
+- Wilson Liang
 
-Angela Ho 何嘉雯<br>
-Christina Lee 李嘉明<br>
-Kevin Huang 黃儀軒<br>
-Kimberley Wong 黄壯慈<br>
-Louis Lapprend 雷樂文<br>
-Vive Wong 黄綺文
+#### Committee
 
-## Project Team
+- Angela Ho 何嘉雯
+- Christina Lee 李嘉明
+- Kevin Huang 黃儀軒
+- Kimberley Wong 黄壯慈
+- Louis Lapprend 雷樂文
+- Vive Wong 黄綺文
 
-Sarah Ling 凌慧意<br>
-Sidi Chen 陈斯狄
+#### Project Team
 
-## Digital Publication
+- Sarah Ling 凌慧意
+- Sidi Chen 陈斯狄
 
-Nic Chan 陳佩賢<br>
-Brooke Xiang 向伊凡
+#### Digital Publication
 
-## Editors
+- Nic Chan 陳佩賢
+- Brooke Xiang 向伊凡
 
-Tyler 忠男 太明 Mark<br>
-Brooke Xiang 向伊凡
+#### Editors
 
+- Tyler 忠男 太明 Mark
+- Brooke Xiang 向伊凡
   </div>
