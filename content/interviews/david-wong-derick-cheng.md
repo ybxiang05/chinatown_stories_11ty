@@ -20,7 +20,7 @@ img: ""
 
 **W:** To me,
 
-## resilience is the ability to come back. Even though there are many setbacks, you have to fight through it and still come back everyday to serve the community. There are a lot of people here who need our help.
+<blockquote> resilience is the ability to come back. Even though there are many setbacks, you have to fight through it and still come back everyday to serve the community. There are a lot of people here who need our help.</blockquote>
 
 **C:** We have patients coming all the way from Surrey and Richmond, as well as from East Van.
 

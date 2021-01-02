@@ -16,9 +16,8 @@ Funding for this project was provided by the City of Vancouver. We thank the Chi
 
 ## Contributors
 
-<div class='contributors'>
-<p>
-Alain Chow <br>
+<ul class='contributors'>
+<li>Alain Chow </li>
 Alyssa Sy de Jesus 施麗莎<br>
 Christina Lee 李嘉明<br>
 Dan Pon<br>
@@ -28,8 +27,6 @@ Emily Dundas Oke<br>
 Jasper Lam<br>
 Jessamine Liu<br>
 Keller Ng<br>
-</p>
-<p>
 Kendell Yan (Maiden China)<br>
 Kong Tai 邝太<br>
 Li Yu Rong 李玉荣<br>
@@ -41,9 +38,7 @@ Tray Ma<br>
 Shu Ying Yu<br>
 Van Dang (Shay Dior)<br>
 William Liu
-
-<p>
-</div>
+</ul>
 
 ## Goldstone Stories
 

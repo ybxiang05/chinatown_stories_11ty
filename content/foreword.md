@@ -4,9 +4,9 @@ subtitle: Finding Agency in Resilience
 order: 0
 ---
 
-## “...you only have to remember two things, one is, everything in the universe is alive, the other is, we are all relatives”
+<blockquote> “...you only have to remember two things, one is, everything in the universe is alive, the other is, we are all relatives”</blockquote>
 
-<h2 class='foreword__quotation2'> …and that is wisdom.</h2>
+<blockquote class='foreword__quotation2'> …and that is wisdom.</blockquote>
 
 <div class='foreword__source'>
 

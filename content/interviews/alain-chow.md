@@ -2,7 +2,7 @@
 title: Alain Chow
 subtitle: Bao Bei Chinese Brasserie
 order: 4
-blurb: "Alain Chow has always dreamed of being a restaurateur. He moved to Vancouver in 2011, and has been the sous chef at Bao Bei Chinese Brasserie for the past eight years. Located at 163 Keefer Street, Bao Bei woos its patrons with a casual and intimate dining experience using flavours borrowed from Chinese diasporas across the globe. Since the pandemic, Bao Bei has served as the staging area for Chinatown Cares, which is a weekly grocery program that delivers culturally appropriate produce and optional cooked meals to Chinese seniors. Alain chats with <em>Chinatown Today</em> about how the pandemic has affected the operation of restaurants, and what 吃苦 (eating bitter) has taught him about resilience. You can follow Bao Bei on Instagram <a target='_blank' href='https://www.instagram.com/baobei1/'> @baobei1 </a>."
+blurb: "Alain Chow has always dreamed of being a restaurateur. He moved to Vancouver in 2011, and has been the sous chef at Bao Bei Chinese Brasserie for the past eight years. Located at 163 Keefer Street, Bao Bei woos its patrons with a casual and intimate dining experience using flavours borrowed from Chinese diasporas across the globe. Since the pandemic, Bao Bei has served as the staging area for Chinatown Cares, which is a weekly grocery program that delivers culturally appropriate produce and optional cooked meals to Chinese seniors. Alain chats with <em>Chinatown Today</em> about how the pandemic has affected the operation of restaurants, and what 吃苦 (eating bitter) has taught him about resilience. You can follow Bao Bei on Instagram <a target='_blank' rel='noopener' href='https://www.instagram.com/baobei1/'> @baobei1 </a>."
 
 img: ""
 ---
@@ -38,7 +38,7 @@ our ethnicity. It’s a place of belonging.
 
 **A:** It means putting in continuous effort in the face of adversity. Chinatowns around the world are all examples of resilience, especially this year. The fact that we’re all still here, not throwing in the towel and moving to another neighbourhood, means we believe in this neighbourhood, and believe in the people of this neighbourhood. I think that’s a good example of resilience. It’s been a difficult year for everyone, but working and being involved in this neighbourhood makes it feel like there’s been more adversity here than in others.
 
-## Resilience is not necessarily being rough, or macho, or strong, and it doesn’t mean being unbreakable. It’s being able to do something even when it’s not easy.
+<blockquote> Resilience is not necessarily being rough, or macho, or strong, and it doesn’t mean being unbreakable. It’s being able to do something even when it’s not easy.</blockquote>
 
 **CT:** Marginalized communities, especially in the Downtown Eastside, tend to fall through the cracks, especially in these hard times. Since you work in the neighbourhood, what are some of the ways you’ve seen or experienced the COVID-19 pandemic?
 
