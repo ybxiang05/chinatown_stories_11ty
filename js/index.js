@@ -23,20 +23,29 @@ function afterDOMLoaded() {
   //accordion stuff
   document.addEventListener("click", (event) => {
     const toggle = event.target;
+    const target = document.getElementById(
+      toggle.getAttribute("aria-controls")
+    );
     if (
       toggle.hasAttribute("aria-expanded") &&
       toggle.getAttribute("aria-expanded") === "false"
     ) {
       toggle.setAttribute("aria-expanded", "true");
+      target.hidden = false;
     } else if (toggle.hasAttribute("aria-expanded")) {
       toggle.setAttribute("aria-expanded", "false");
+      target.hidden = true;
     }
   });
 
   if (window.location.hash) {
     const element = document.querySelector(window.location.hash);
+    const target = document.getElementById(
+      element.getAttribute("aria-controls")
+    );
     if (element && element.hasAttribute("aria-expanded")) {
       element.setAttribute("aria-expanded", "true");
+      target.hidden = false;
     }
   }
 }
