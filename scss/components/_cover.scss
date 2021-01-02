@@ -4,7 +4,7 @@
   --logo-ease: ease-in-out;
   position: sticky;
   top: 0;
-  overflow-x: hidden;
+  overflow: hidden;
   min-height: 100vh;
 
   &::before {
@@ -22,6 +22,7 @@
   position: absolute;
   margin: 0;
   transition-duration: var(--logo-duration);
+  z-index: 1;
 
   &[data-state="initial"] {
     top: 50%;
@@ -86,12 +87,27 @@
 
 .cover--logo-moved {
   .cover__gate {
-    animation: fadeIn 1s forwards;
+    animation: fadeIn 1s forwards 0.5s;
   }
 
   .cover__lattice {
     animation: fadeIn 1s forwards 1s;
   }
+
+  .cover__tree {
+    animation: fadeIn 1s forwards;
+  }
+}
+
+.cover__tree {
+  position: absolute;
+  display: block;
+  width: 100%;
+  max-width: none;
+  left: -2rem;
+  bottom: 0;
+  opacity: 0;
+  z-index: -1;
 }
 
 @media (min-width: 40em) {
@@ -127,5 +143,23 @@
 
   .cover__lattice {
     display: block;
+  }
+
+  .cover__tree {
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 90em) and (orientation: landscape) {
+  .cover__tree {
+    left: 10%;
+    bottom: -5%;
+  }
+}
+
+@media (min-width: 100em) and (orientation: landscape) {
+  .cover__tree {
+    left: 20%;
+    bottom: -10%;
   }
 }

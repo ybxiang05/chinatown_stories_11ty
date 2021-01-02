@@ -38,37 +38,6 @@
     margin-bottom: 0;
   }
 }
-.foreword__quotation2 {
-  text-align: end;
-}
-
-.foreword__source {
-  font-size: 1rem;
-  text-align: end;
-}
-
-.foreword__signoff {
-  text-align: end;
-}
-.acknowledgement {
-  text-align: center;
-}
-
-.acknowledgement__logos {
-  .logos {
-    width: 150px;
-    align-items: center;
-  }
-}
-.contributors {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  width: 100%;
-  p {
-    margin: auto;
-  }
-}
 
 @media (min-width: 48em) {
   .content-item {
