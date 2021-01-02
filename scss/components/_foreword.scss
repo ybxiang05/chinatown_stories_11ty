@@ -1,4 +1,12 @@
-.foreword__quotation2,
+.foreword__quotation2 {
+  text-align: end;
+}
+
 .foreword__source {
-  text-align: right;
+  font-size: 1rem;
+  text-align: end;
+}
+
+.foreword__signoff {
+  text-align: end;
 }
