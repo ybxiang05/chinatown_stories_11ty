@@ -2,7 +2,7 @@
 title: Michael Tan
 subtitle: Chau Luen Society
 order: 9
-blurb: "Michael Tan is the director at Chau Luen Society and a co-chair of the Chinatown Legacy Stewardship Group. He is also the kung fu and lion dance instructor at the Chau Luen Athletic Club, an accountant, and a self-proclaimed ninja. Mike chats with <em>Chinatown Today</em> about what keeps him going as a practitioner of Chinese tradition through lion dancing, why more policing isn’t the solution to Chinatown’s problems, and why the plum blossom is a symbol of resilience. Read on to find out how lion dancers cheer up the seniors in the Chau Luen Tower around Lunar New Year. You can follow Chau Luen on Instagram <a target='_blank' href='https://www.instagram.com/chauluenathletics/'>@chauluenathletics</a>."
+blurb: "Michael Tan is the director at Chau Luen Society and a co-chair of the Chinatown Legacy Stewardship Group. He is also the kung fu and lion dance instructor at the Chau Luen Athletic Club, an accountant, and a self-proclaimed ninja. Mike chats with <em>Chinatown Today</em> about what keeps him going as a practitioner of Chinese tradition through lion dancing, why more policing isn’t the solution to Chinatown’s problems, and why the plum blossom is a symbol of resilience. Read on to find out how lion dancers cheer up the seniors in the Chau Luen Tower around Lunar New Year. You can follow Chau Luen on Instagram <a target='_blank' rel='noopener' href='https://www.instagram.com/chauluenathletics/'>@chauluenathletics</a>."
 img: ""
 ---
 
@@ -24,7 +24,7 @@ img: ""
 
 **M:** When my family lived in Chinatown, we would hear the Hon Hsing Athletics Club practice drumming on the floor above us. As far as noisy neighbours go, they were probably the worst, but as a kid, I thought it was amazing. My sisters still tell me about how I would throw a blanket over myself and pretend to lion dance. My family moved to Surrey soon after, and when I was old enough to take the skytrain, I’d attend lion dance and kung fu classes at Chau Luen. When I was going to university, I started to notice there were fewer people interested. Maybe it wasn’t considered cool at the time, but our group is very passionate about it.
 
-## I joke about it being Chinese guilt. No one else is around to do this, so you feel this responsibility to keep it going. Even my parents don’t always understand why we keep going. But if we don’t do it, who else is going to do it?
+<blockquote>I joke about it being Chinese guilt. No one else is around to do this, so you feel this responsibility to keep it going. Even my parents don’t always understand why we keep going. But if we don’t do it, who else is going to do it?</blockquote>
 
 I feel a responsibility to not only be a practitioner but to teach and promote it to the next generation.
 
@@ -70,7 +70,7 @@ I feel a responsibility to not only be a practitioner but to teach and promote i
 
 **M:** In the past, the broader Chinese Canadian community had stronger relationships with other racialized communities. Over time, through different factors, those relations have weakened. Chinatown needs to do better to build stronger relationships with Hogan’s Alley.
 
-## There’s a lot of work that needs to be done for all the neighbourhoods, like the Downtown Eastside and Hogan’s Alley, in terms of social programming and planning. The Black Lives Matter movement gives our community an opportunity to have an important dialogue about racism with an inward gaze. It’s hard to have that conversation with another community when you yourself don’t recognize what’s happening to them, as well as the role you have played in these happenings yourself.
+<blockquote>There’s a lot of work that needs to be done for all the neighbourhoods, like the Downtown Eastside and Hogan’s Alley, in terms of social programming and planning. The Black Lives Matter movement gives our community an opportunity to have an important dialogue about racism with an inward gaze. It’s hard to have that conversation with another community when you yourself don’t recognize what’s happening to them, as well as the role you have played in these happenings yourself.</blockquote>
 
 There is also lots of work to be done with the Northeast False Creek development plan, which will impact Hogan’s Alley and Chinatown. We need to make sure everyone who is a stakeholder in that plan is at the table during the dialogue.
 

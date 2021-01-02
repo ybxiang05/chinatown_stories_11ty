@@ -2,7 +2,7 @@
 title: William Liu
 subtitle: Kam Wai Dim Sum
 order: 1
-blurb: "William Liu is the owner and operator of Kam Wai Dim Sum, a dim sum speciality company located at 249 East Pender. Kam Wai has been serving the Chinatown community for almost 30 years, and is one of the last places in Chinatown where one can grab a delicious and filling hot lunch at an accessible price. The shop front is unassuming, and though the menus on the walls have been overwritten time and time again to reflect changes in available items and fluctuating prices, just one bite of their mushroom chicken rice (冬菇滑雞飯) can transport you to a singular yet undefinable moment in time where nostalgia lives. It was important for us to speak with William because it’s legacy businesses like Kam Wai that give Chinatown its unique flavour. William chats with us about what it’s like to grow up in Chinatown, to be a queer Chinese man, and the everyday memories that he continues to make and to treasure. You can follow Kam Wai on Instagram <a target='_blank' href='https://www.instagram.com/kamwaidimsum/'>@kamwaidimsum</a>."
+blurb: "William Liu is the owner and operator of Kam Wai Dim Sum, a dim sum speciality company located at 249 East Pender. Kam Wai has been serving the Chinatown community for almost 30 years, and is one of the last places in Chinatown where one can grab a delicious and filling hot lunch at an accessible price. The shop front is unassuming, and though the menus on the walls have been overwritten time and time again to reflect changes in available items and fluctuating prices, just one bite of their mushroom chicken rice (冬菇滑雞飯) can transport you to a singular yet undefinable moment in time where nostalgia lives. It was important for us to speak with William because it’s legacy businesses like Kam Wai that give Chinatown its unique flavour. William chats with us about what it’s like to grow up in Chinatown, to be a queer Chinese man, and the everyday memories that he continues to make and to treasure. You can follow Kam Wai on Instagram <a target='_blank' rel='noopener' href='https://www.instagram.com/kamwaidimsum/'>@kamwaidimsum</a>."
 img: ""
 ---
 
@@ -38,7 +38,7 @@ img: ""
 
 **W:** For me,
 
-## resilience is trying to put a positive spin on things. It’s easy to dwell in the past because there were so many great moments in the past.
+<blockquote>resilience is trying to put a positive spin on things. It’s easy to dwell in the past because there were so many great moments in the past.</blockquote>
 
 But with gentrification and everything else, you really need to push through and have a positiveoutlook. There are still businesses out here that thrive, and continue to thrive, like Kam Wai. We
 are trying our best to do well, even through the COVID-19 pandemic. I think really it’s just about trying your best to be positive throughout time.

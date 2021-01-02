@@ -4,7 +4,7 @@ order: 17
 blurb:
   <p>Pearl Low is an Academy Award-winning queer Afro-Asian storyboard artist, comic artist, and illustrator. Born and raised on the Eastside of Vancouver, Pearl’s art is consciously rooted in themes of self-love, acceptance, culture, and race. Earlier this year, Pearl added muralist to her long list of artistic accomplishments. Her piece titled <em>Precious Fruit</em> on Davie Street is a pop of colour and warmth in an otherwise white space. Chinatown Today sat down with Pearl to talk about her evolving relationship with Chinatown and Chineseness, being Black in Vancouver, and why it’s so important to highlight Black joy in daily existence. Read on to find out what Pearl has to say about the role of storytelling, and the importance of seeing ourselves represented in the media we consume.</p>
 
-  <p>You can follow Pearl on Instagram <a target='_blank' href='https://www.instagram.com/fumichun/'>@fumichun</a>.</p>
+  <p>You can follow Pearl on Instagram <a target='_blank' rel='noopener' href='https://www.instagram.com/fumichun/'>@fumichun</a>.</p>
 
 img: ""
 ---
@@ -35,7 +35,7 @@ img: ""
 
 **P:** My relationship with visibility, especially in Vancouver, is being hyper-visible while being invisible at the same time. We’ve all seen that one Disney film that’s supposedly made for everybody, but feels so generic and doesn’t resonate with anybody.
 
-## It’s extremely important to have our world reflected in the media we consume, because the more specific a story is, the more relatable it becomes. That’s the role of storytelling, to learn about each other, to expand our perspectives, and to transport ourselves outside of our own world.
+<blockquote>It’s extremely important to have our world reflected in the media we consume, because the more specific a story is, the more relatable it becomes. That’s the role of storytelling, to learn about each other, to expand our perspectives, and to transport ourselves outside of our own world.</blockquote>
 
 I want us to keep expanding and pushing for other narratives to be at the forefront of things. We don’t lose anything by hearing about someone else’s lived experience. You can have the same story of a girl falling in love, but with different cultural variants and implications, it becomes a different story. We’re all telling the same story in slightly different ways. I think it’s exciting, and I want to see more different things!
 
@@ -106,4 +106,4 @@ different from your lived experiences?
 
 **P:** I think my practice has more firmly centred Black joy, especially in these times, catalyzed by the George Floyd incident. We’re faced with a lot of Black suffering. It’s part of the conversation, but it’s not the only part of the conversation. A part of resilience that needs to be mentioned is joy, because the function of racism is to not allow racialized folks to be happy and live our lives. Racism creates distractions to bring you down, so it’s very important to make sure you still find moments of joy. That’s what I try to do in my practice and in my storytelling.
 
-## I want to remind folks how joyful our communities are, whether it’s Black communities, or Asian communities. We’re not just marginalized folks who are suffering. We have happy moments, too, and we have things to celebrate.
+<blockquote>I want to remind folks how joyful our communities are, whether it’s Black communities, or Asian communities. We’re not just marginalized folks who are suffering. We have happy moments, too, and we have things to celebrate.</blockquote>

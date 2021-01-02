@@ -42,7 +42,7 @@ Shu Ying Yu<br>
 Van Dang (Shay Dior)<br>
 William Liu
 
-<p>
+</p>
 </div>
 
 ## Goldstone Stories

@@ -3,7 +3,7 @@ title: Sue Pastorcic
 subtitle: Embers Eastside Works
 order: 7
 blurb: "
-  <p>Sue Pastorcic works for the Chinatown Community Stewardship Program through Embers Eastside Works. Community Stewards like Sue serve as neighbourhood diplomats who help to bridge the communication gaps between business owners and homeless folks who often share the area we call Chinatown. They also help to beautify the neighbourhood and keep it safe by picking up litter and used needles. In this interview, Sue chats with <em>Chinatown Today</em> about her experiences taking care of Chinatown businesses as well as the folks on the streets throughout the pandemic. You can follow Embers on Instagram <a target='_blank' href='https://www.instagram.com/embersorg/'>@embersorg</a> and Atira Women's Resource Society <a target='_blank' href='https://www.instagram.com/freeofviolence/'>@freeofviolence</a></p>
+  <p>Sue Pastorcic works for the Chinatown Community Stewardship Program through Embers Eastside Works. Community Stewards like Sue serve as neighbourhood diplomats who help to bridge the communication gaps between business owners and homeless folks who often share the area we call Chinatown. They also help to beautify the neighbourhood and keep it safe by picking up litter and used needles. In this interview, Sue chats with <em>Chinatown Today</em> about her experiences taking care of Chinatown businesses as well as the folks on the streets throughout the pandemic. You can follow Embers on Instagram <a target='_blank' rel='noopener' href='https://www.instagram.com/embersorg/'>@embersorg</a> and Atira Women's Resource Society <a target='_blank' rel='noopener' href='https://www.instagram.com/freeofviolence/'>@freeofviolence</a></p>
 
 <p><strong>Please note this interview mentions substance use and sexual assault.</strong></p>"
 
@@ -44,7 +44,7 @@ img: ""
 
 **S:** We aren’t police but we do pretty good work. There’s two shifts, one in the morning and one in the afternoon. We check in on storefronts, do garbage pick up, needle pick up, and just try to save lives. We carry Narcan and try to be well equipped to do our part to keep people safe. Even though we specifically look out for the storefronts in Chinatown, we try to look out for everyone. A couple of weeks ago my coworker and I had to deal with a pretty bad scene outside of the office here. There was a girl and we had to call the paramedics to save her, we had to explain that the poor girl had lice from head to toe. And they said that they would come when they could, a couple hours. We couldn’t wait a couple hours. This girl was going to die. So I had to run to the medical centre and grab the nurses to get her a crash cart. Finally a doctor got on the phone with the paramedics and told them that they need to come now. As soon as they came they were shocked with the situation and weren’t very sympathetic. I knew that the girl had experienced sexual violence and they basically didn’t treat her as a person. I had to take a few days off work after to think about these things.
 
-## I’ve come a long way in three years, and Eastside Works is and will always be my home.
+<blockquote>I’ve come a long way in three years, and Eastside Works is and will always be my home.</blockquote>
 
 **CT:** That’s so good to hear. I think your journey in itself is a story of resilience and it goes to show that there are many people here who come from difficult situations but given the chance and opportunities, you can turn your life around.
 
@@ -102,7 +102,7 @@ img: ""
 
 **S:** Mentally I’m getting stronger. I’m dealing with things that I might not have dealt with before. I wouldn’t have thought about it last year because I didn’t have the time to think about what I needed as a person. When I took my 3 months of leave I thought about my mental health. I began seeing a therapist through Atira.
 
-## I started getting closer to my family, and am supporting them through their hard times. I’m focused on myself, my family, and making it through my past addictions. I probably wouldn’t have looked at these things if COVID didn’t happen, because I was using my work to avoid everything.
+<blockquote>I started getting closer to my family, and am supporting them through their hard times. I’m focused on myself, my family, and making it through my past addictions. I probably wouldn’t have looked at these things if COVID didn’t happen, because I was using my work to avoid everything.</blockquote>
 
 When the COVID-19 pandemic hit, I had no choice but to deal with what I was thinking. I’m not quite where I want to be yet, but with the help of Eastside Works, I know that I’m going to get there.
 
