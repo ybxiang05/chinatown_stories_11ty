@@ -2,7 +2,7 @@
   <h2 class="content__heading">Table of Contents</h2>
   {% for content in collections.content %}
     <div class="accordion">
-      <h3>
+      <h3 class="accordion__heading">
         <button class="accordion__toggle" aria-expanded="false" aria-controls="{{ content.data.title | slug }}-content" id="{{ content.data.title | slug }}">
           <p class="accordion__title">{{ content.data.title | safe }}</p>
           {% if content.data.subtitle %}

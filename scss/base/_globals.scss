@@ -22,3 +22,11 @@ button * {
   // make sure child elements in buttons don't pick up events
   pointer-events: none;
 }
+
+p {
+  margin-top: 0;
+
+  & + & {
+    margin-top: 1rem;
+  }
+}

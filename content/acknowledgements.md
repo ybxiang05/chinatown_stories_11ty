@@ -16,7 +16,7 @@ Funding for this project was provided by the City of Vancouver. We thank the Chi
 
 #### Contributors
 
-<ul class="acknowledgement__long-list">
+<div class="acknowledgement__long-list">
 
 - Alain Chow
 - Alyssa Sy de Jesus 施麗莎
@@ -39,7 +39,7 @@ Funding for this project was provided by the City of Vancouver. We thank the Chi
 - Shu Ying Yu
 - Van Dang (Shay Dior)
 - William Liu
-  </ul>
+</div>
 
 #### Goldstone Stories
 
