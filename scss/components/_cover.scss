@@ -114,7 +114,9 @@
   position: absolute;
   display: block;
   width: 150px;
-  // transform: translate(50%, 100%);
+  left: 50%;
+  bottom: 2.5rem;
+  transform: translateX(-50%);
 }
 
 @media (min-width: 40em) {
