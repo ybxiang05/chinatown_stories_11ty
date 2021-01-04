@@ -1,6 +1,9 @@
 .bios__hr {
-  background-image: url("../../static/assets/hrimage.jpg");
+  background-image: url("../../static/assets/hrimage.png");
   display: block;
   border: 0;
-  height: 20px;
+  height: 5rem;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
