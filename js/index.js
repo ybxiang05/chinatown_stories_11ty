@@ -40,10 +40,13 @@ function afterDOMLoaded() {
 
   if (window.location.hash) {
     const element = document.querySelector(window.location.hash);
-    const target = document.getElementById(
-      element.getAttribute("aria-controls")
-    );
     if (element && element.hasAttribute("aria-expanded")) {
+      const target = document.getElementById(
+        element.getAttribute("aria-controls")
+      );
+      const target = document.getElementById(
+        element.getAttribute("aria-controls")
+      );
       element.setAttribute("aria-expanded", "true");
       target.hidden = false;
     }
