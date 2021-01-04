@@ -44,9 +44,6 @@ function afterDOMLoaded() {
       const target = document.getElementById(
         element.getAttribute("aria-controls")
       );
-      const target = document.getElementById(
-        element.getAttribute("aria-controls")
-      );
       element.setAttribute("aria-expanded", "true");
       target.hidden = false;
     }
