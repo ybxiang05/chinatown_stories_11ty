@@ -1,6 +1,6 @@
 ---
 title: Artist Bios
-order: 17
+order: 18
 ---
 
 #### Alyssa Sy de Jesus
