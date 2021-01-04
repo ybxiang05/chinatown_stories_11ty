@@ -5,4 +5,4 @@ order: 13
 img: ""
 ---
 
-{% contentImage "trayMa_1of1.jpg", "" %}
+{% contentImage "trayMa_1of1.jpg", "", true %}

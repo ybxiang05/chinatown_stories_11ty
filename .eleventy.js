@@ -2,7 +2,7 @@ const fs = require("fs");
 const util = require("util");
 const lazyImagesPlugin = require("eleventy-plugin-lazyimages");
 
-module.exports = function(config) {
+module.exports = function (config) {
   // Passthrough copy
   config.addPassthroughCopy("static");
   config.addPassthroughCopy("js");
@@ -10,7 +10,7 @@ module.exports = function(config) {
   // 404
   config.setBrowserSyncConfig({
     callbacks: {
-      ready: function(err, browserSync) {
+      ready: function (err, browserSync) {
         const content_404 = fs.readFileSync("dist/404/index.html");
 
         browserSync.addMiddleware("*", (req, res) => {
@@ -18,36 +18,45 @@ module.exports = function(config) {
           res.write(content_404);
           res.end();
         });
-      }
-    }
+      },
+    },
   });
 
   // Filters
-  config.addFilter("console", function(value) {
+  config.addFilter("console", function (value) {
     return util.inspect(value);
   });
 
   // shortcodes
-  config.addShortcode("contentImage", function(path, alt, className) {
-    return `<img ${className ? 'class="' + className + '"' : ""}
+  config.addShortcode(
+    "contentImage",
+    function (path, alt, isVertical, className) {
+      return `<div class="content-item__image-wrapper ${
+        isVertical ? "content-item__image-wrapper--vertical" : ""
+      }">
+        <img ${className ? 'class="' + className + '"' : ""}
         src="/static/assets/content_images/${path}"
         alt="${alt}"
-        >`;
-  });
+        ></div>`;
+    }
+  );
 
-  config.addShortcode("logos", function(path, alt, className) {
+  config.addShortcode("logos", function (path, alt, className) {
     return `<img ${
       className ? 'class="' + className + '"' : ""
     } src="/static/assets/logos/${path}" alt="${alt}">`;
   });
 
   config.addPlugin(lazyImagesPlugin, {
-    imgSelector: ".content img" // custom image selector
+    imgSelector: ".content img", // custom image selector
   });
 
   // Collections
-  config.addCollection("content", function(collection) {
-    return [...collection.getFilteredByGlob("content/**/*.md")].sort(function(a, b) {
+  config.addCollection("content", function (collection) {
+    return [...collection.getFilteredByGlob("content/**/*.md")].sort(function (
+      a,
+      b
+    ) {
       return a.data.order - b.data.order;
     });
   });
@@ -56,11 +65,11 @@ module.exports = function(config) {
     dir: {
       includes: "components",
       layouts: "components/layouts",
-      output: "dist"
+      output: "dist",
     },
     passthroughFileCopy: true,
     templateFormats: ["njk", "md"],
     htmlTemplateEngine: "njk",
-    markdownTemplateEngine: "njk"
+    markdownTemplateEngine: "njk",
   };
 };
