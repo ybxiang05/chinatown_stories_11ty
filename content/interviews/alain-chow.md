@@ -7,7 +7,7 @@ blurb: "Alain Chow has always dreamed of being a restaurateur. He moved to Vanco
 img: ""
 ---
 
-{% contentImage "baoBei_1of5.jpg", "Bao Bei Chinese Brasserie store front in the daytime." %}
+{% contentImage "baoBei_1of5.jpg", "Bao Bei Chinese Brasserie store front in the daytime.", true %}
 
 **CT:** What do you think of when you think of Chinatown?
 
@@ -26,7 +26,7 @@ our ethnicity. It’s a place of belonging.
 
 **A:** My fondest memory would be the opening of Kissa Tanto. I’ve been working in restaurants for almost 20 years now, and it’s always been a dream of mine to be a restaurateur. When the opportunity presented itself, it was a lifelong dream come true. Everything in that first year of when Kissa Tanto first opened was a happy memory for me.
 
-{% contentImage "baoBei_2of5.jpg", "Bao Bei restaurant interior. Rustic wood planks affixed vertically along the wall from floor to ceiling are decorated with tarnished antique silver trays. Bins of groceries in paper bags are placed against the wall." %}
+{% contentImage "baoBei_2of5.jpg", "Bao Bei restaurant interior. Rustic wood planks affixed vertically along the wall from floor to ceiling are decorated with tarnished antique silver trays. Bins of groceries in paper bags are placed against the wall.", true %}
 
 **CT:** What does resilience mean to you?
 
@@ -64,7 +64,7 @@ our ethnicity. It’s a place of belonging.
 
 **A:** Chinatown Cares is an initiative started by Chinatown Today, Yarrow Intergenerational Society for Justice, and the hua foundation. In the first couple of days after lock down, the folks at hua foundation reached out to me about helping out the seniors in the community. I jumped on board because food security is important to me. I volunteer for the Greater Vancouver Food Bank, and Bao Bei supports the Chinatown Seniors Community Kitchen. Logistically there was a bunch of food at the restaurants that needed to be repurposed. The program ended up being a way of getting culturally appropriate groceries out to the seniors, plus some cooked food for those that wanted it. With my contacts with local suppliers, we could order the products from the grocery stores in Chinatown, I could cook in the kitchen, and we could use the floor space to package and distribute groceries. Bao Bei was a natural fit to be the staging area.
 
-{% contentImage "baoBei_4of5.jpg", "Close up shot of staff member packing groceries. They hold a plastic bag open with their right hand as they place a bunch of cilantro into the bag. The box they stand in front of reads 'green onions'." %}
+{% contentImage "baoBei_4of5.jpg", "Close up shot of staff member packing groceries. They hold a plastic bag open with their right hand as they place a bunch of cilantro into the bag. The box they stand in front of reads 'green onions'.", true %}
 
 **CT:** Are there things you’ve learned or have been surprised about through this experience of participating in Chinatown Cares?
 
@@ -91,4 +91,4 @@ understand that I don’t see everything from their point of view, but anecdotal
 
 **A:** I’ve been spending time with my partner and her family. She is Chinese-Venezualan, and with the recent upheaval in Venezuela, her entire family has moved here and live under one roof. I spend a lot of time with them now, which gives me happiness. They’re a hospitality family as well. They own Chinese restaurants in Venezuela, so everything is centered around food. That’s totally in my wheelhouse. We eat a lot, everybody takes turns cooking, we all sit around a giant round table with a spinning centre, just like at Chinese restaurants. It’s good to spend time with them and decompress.
 
-{% contentImage "baoBei_5of5.jpg", "Kissa Tanto restaurant store front in the daytime, it appears to be closed." %}
+{% contentImage "baoBei_5of5.jpg", "Kissa Tanto restaurant store front in the daytime, it appears to be closed.", true %}

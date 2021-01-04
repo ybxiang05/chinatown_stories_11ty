@@ -6,7 +6,7 @@ blurb: "Like many transplants here, Mrs. Li fell in love with Vancouver for its 
 img: ""
 ---
 
-{% contentImage "mrsLi_1of6.jpg", "Interior of the Chinese Canadian Museum of British Columbia. A long display table covered in photographs is lit from above in lamps made out of woks." %}
+{% contentImage "mrsLi_1of6.jpg", "Interior of the Chinese Canadian Museum of British Columbia. A long display table covered in photographs is lit from above in lamps made out of woks.", true %}
 
 **CT:** 请您告诉我们您叫什么名字，在唐人街住多久了？ <br>
 **CT:** Please tell us your name, and how long you’ve lived in Chinatown
@@ -26,7 +26,7 @@ img: ""
 **L:** 我家乡是山东青岛的。我是青岛人。在青岛环境卫生也还不错，但比不上这里。毕竟人少。<br>
 **L:** My ancestral home is in Qingdao, Shandong. I’m from Qingdao. The environment in Qingdao is good, also, but it’s not as good as here as there are fewer people here.
 
-{% contentImage "mrsLi_2of6.jpg", "Two Chinese seniors stroll along a sunny street in their walkers, one after the other." %}
+{% contentImage "mrsLi_2of6.jpg", "Two Chinese seniors stroll along a sunny street in their walkers, one after the other.", true %}
 
 **CT:** 对您来说，唐人街意味着什么？<br>
 **CT:** What does Chinatown mean to you?
@@ -66,7 +66,7 @@ img: ""
 **L:** 非物质文化指的就是指艺术方面的文化。唐人街的华人历史在温哥华没有第二个。唐人街的耍龙舞狮啊，热闹啊，挂红灯笼啊。现在唐人街灯笼挂的少了。都是他们那次来拆房子的关系。原来唐人街灯笼是一串儿一串儿的，从上到下，还有贴着春联，可好了，看起来就是过年的样子。没钱都像过年的样子。这就是我们加拿大华裔的文化。在中国，家家户户过年都会挂灯笼，也就无所谓了。但在唐人街就独一无二，所以好多人会来唐人街。我有朋友住在列治文，都会来这里逛街，买点家乡的东西。<br>
 **L:** Intangible heritage has to do with arts and culture. There’s no other Chinatown that carries Chinese diasporic history in Vancouver. There’s lion dancing here, and strings of red lanterns. It’s the atmosphere. But now there are fewer red lanterns in Chinatown. It’s related to when they came to tear down buildings. Chinatown used to have strings and strings of red lanterns, from top to bottom, and places would have spring couplets on their doors for Lunar New Year. Even if you didn’t have money or the resources, it felt like a celebration. That’s Chinese diasporic culture in Canada. Around Lunar New Year, every household in China would have lanterns, so it’s very common. But Chinatown is the only place that would have lanterns, so lots of people would come visit. Even my friends who live in Richmond would come to do their shopping and to buy things from back home.
 
-{% contentImage "mrsLi_4of6.jpg", "The sidewalk in front of a greengrocer in Chinatown. Wooden shelves on wheels carry plastic crates and styrofoam boxes overflowing with peaches, apples, mangos, and produce in pre-packaged bags. Passersby contemplate the fruits." %}
+{% contentImage "mrsLi_4of6.jpg", "The sidewalk in front of a greengrocer in Chinatown. Wooden shelves on wheels carry plastic crates and styrofoam boxes overflowing with peaches, apples, mangos, and produce in pre-packaged bags. Passersby contemplate the fruits.", true %}
 
 **CT:** 每次逢年过节就特别看得出来华人文化。在新冠肺炎这段时间里来，您觉得您最大的压力和忧虑是什么？<br>
 **CT:** Chinese heritage and cultural practices are certainly more visible during celebrations. What has been your biggest worry throughout the pandemic?
@@ -136,4 +136,4 @@ img: ""
 **L:** 现在有好多人没有房子住，是我应该关注的事情，是我们大家都应该关注的事情。<br>
 **L:** There are lots of people without housing. This is something I’m concerned about, and is something everyone should be concerned about.
 
-{% contentImage "mrsLi_6of6.jpg", "A gray two-storey walkup with two French windows on the second floor, flanked by a colourful mural of birds on the left and a hotel on the right. A raindow Pride flag hangs vertically from the French window on the left, behind white text that reads ‘Black Lives Matter’." %}
+{% contentImage "mrsLi_6of6.jpg", "A gray two-storey walkup with two French windows on the second floor, flanked by a colourful mural of birds on the left and a hotel on the right. A raindow Pride flag hangs vertically from the French window on the left, behind white text that reads ‘Black Lives Matter’.", true %}

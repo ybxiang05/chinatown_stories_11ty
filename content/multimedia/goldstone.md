@@ -37,7 +37,7 @@ img: ""
 “When I started working downtown last year, my dad and I made it a weekly routine to visit Goldstone for breakfast. It was such a delight to take pause before a busy day or week ahead, and simply enjoy some bo lo baos, fish congee, and freshly made egg tarts. I loved watching other customers as they settled into the comfort of a simple breakfast with a newspaper, or groups of old friends as they gathered and chatted into the mid-morning sun. Goldstone was truly a gem in the heart of Chinatown. It was a privilege to share a slow meal with my Father and reminisce over a simple bowl of fish congee, made to perfection.”
 
 {% contentImage "goldstone_3of4.jpg", "Fish congee with egg. Photo by Therise Wen Li Lee." %}
-{% contentImage "goldstone_4of4.jpg", "Hong Kong style milk tea with egg tart. Photo by Therise Wen Li Lee." %}
+{% contentImage "goldstone_4of4.jpg", "Hong Kong style milk tea with egg tart. Photo by Therise Wen Li Lee.", true %}
 
 **Favourite item:** Egg tarts, Fish Congee with Egg, Coconut Pineapple Buns
 

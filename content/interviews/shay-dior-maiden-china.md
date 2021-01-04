@@ -30,7 +30,7 @@ img: ""
 
 **M/K:** It’s silly now, but when I went to Chinatown with my dad as a kid, I would think we were going to China. Looking back, that was just the most obvious way of understanding the cultural exchange as a kid, because Chinatown felt like a very removed space. Now I’m part of this space, and I see the same people on the street everyday. Chinatown sits on the edge of the Downtown Eastside, and has very complex relationships and histories. By living here, I become part of these relationships as well as patterns of gentrification. I was manager at a queer venue just outside Chinatown, and was laid off work because of COVID-19. Because of this, I’m now in a position where I rarely leave the community and the neighbourhood. As an artist who’s starting out, and as a kid who grew up in a mixed household, I often felt like an outsider even in my own culture. Because I’m so immersed in Chinatown now, I’m beginning to feel more like a part of the community.
 
-{% contentImage "houseOfRice_2of11.jpg", "Maiden China in drag. Her long, black hair is pulled into a large hive that sits on top of her head. Her face is intricately painted in the style of Peking opera, but done so asymmetrically and with hints of abstractness. A red sheer ruffle collar obscures her chin." %}
+{% contentImage "houseOfRice_2of11.jpg", "Maiden China in drag. Her long, black hair is pulled into a large hive that sits on top of her head. Her face is intricately painted in the style of Peking opera, but done so asymmetrically and with hints of abstractness. A red sheer ruffle collar obscures her chin.", true %}
 
 **S/V:** I’ve travelled a lot, and I always find comfort in Chinatowns everywhere I go, especially because of the food. Vancouver’s Chinatown felt intimidating at first because there weren’t a lot of shops open. I don’t know if it’s because I feel more comfortable in the space now, or if there’s a growth in the number of shops, but now the intimidation has completely worn off, and I come to Chinatown quite often. Since COVID-19, I haven’t been able to come out here as much, especially because I’m a full-time frontline worker. A lot of my free time was spent self-isolating and on self-care because I’m in contact with a lot of customers. I didn’t want to risk bringing that to Kendell, so I had to separate myself from Chinatown for a while.
 
@@ -129,7 +129,7 @@ img: ""
 
 **S/V:** Checking these boxes is a fine balance, because if we were trying to follow a more traditional route, we would never have queer lion dancing and trying to bring women and femmes into the practice, which is traditionally not allowed. We need to balance respect for tradition while at the same time break barriers so we can include everyone.
 
-{% contentImage "houseOfRice_11of11.jpg", "The courtyard between the Chinese Cultural Centre and Dr. Sun Yat-Sen Garden at night. The white garden wallis lit up in colours of the rainbow, while people dance in the foreground." %}
+{% contentImage "houseOfRice_11of11.jpg", "The courtyard between the Chinese Cultural Centre and Dr. Sun Yat-Sen Garden at night. The white garden wallis lit up in colours of the rainbow, while people dance in the foreground.", true %}
 
 **CT:** Speaking of intent and audience, who is your audience?
 

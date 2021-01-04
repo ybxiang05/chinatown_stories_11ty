@@ -36,7 +36,7 @@ img: ""
 
 **C:** This is a unique situation. Chinatown merchants can respond to these emergencies because Chinatown is a community with different kinds of businesses that help each other. People come down to Chinatown for banking, doctors, groceries, Chinese medicine, bookstores and all this. It was working very well because it’s like a big market or shopping centre. But now the problem is they take away a lot of business from different sections in the community. So the community has been struggling. That’s also why I’ve been saying the City doesn’t give enough confidence to the local population.
 
-{% contentImage "corning_2of4.jpg", "Photo of the Chinatown Plaza sign on the corner of Keefer Street and Quebec Street in Vancouver Chinatown taken on an overcast day when the skyline is hazy with fog. The Chinese Cultural Centre Museum with its green roof is visible in the distance." %}
+{% contentImage "corning_2of4.jpg", "Photo of the Chinatown Plaza sign on the corner of Keefer Street and Quebec Street in Vancouver Chinatown taken on an overcast day when the skyline is hazy with fog. The Chinese Cultural Centre Museum with its green roof is visible in the distance.", true %}
 
 **CT:** What was your biggest worry during this time?
 
@@ -52,7 +52,7 @@ img: ""
 
 **W:** Especially for businesses in the Chinatown Plaza. It’s ridiculous. Because of COVID-19, the government offered rent subsidies to the tenants, and it must be applied for through the landlord. But the Plaza belongs to the City, and the City could not apply, even though it’s the landlord.
 
-{% contentImage "corning_3of4.jpg", "Empty food court tables inside Chinatown Plaza against a backdrop of dark and empty shop stalls with their gates and doors closed. Each table, which is intended to seat four, has three chairs marked as unavailable to encourage social distancing." %}
+{% contentImage "corning_3of4.jpg", "Empty food court tables inside Chinatown Plaza against a backdrop of dark and empty shop stalls with their gates and doors closed. Each table, which is intended to seat four, has three chairs marked as unavailable to encourage social distancing.", true %}
 
 **C:** We can’t go back in time, and we can’t return to Chinatown in 1986. Chinatown can’t just be used for historical value, to preserve it in a way that is not modernized, sanitary, health conscious, and without security or safety. Also people’s buying habits have changed. You need resources to make this place cleaner, well-developed with more activities, so tourists can come down and enjoy themselves. And not try not to just have the looks. The City also tends to concentrate all the social services in Chinatown. Let’s say the needle exchange program, which is okay, but in the beginning they promised they were going to have more safe injection sites across the city. Chinatown already has a lot of heritage buildings and cultural spaces. It’s good to want to preserve buildings that have cultural and historical value, but that can’t be every building in Chinatown. There is also no bylaw consistency. When I first opened Corning Drugs on Main Street, in the next few years, there were two more drug stores next to me, even though the bylaws say you can’t have the same kind of business within 450m. When the City wants to approve something, they approve it. If not, then they will hold these public meetings and drag it out.
 

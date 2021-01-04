@@ -1,0 +1,31 @@
+{% set pageTitle = config.name %}
+{% set pageDesc = config.description %}
+{% set siteTitle = config.name %}
+{% set currentUrl = config.url + page.url %}
+{% set image = config.image %}
+{% set imageAlt = config.imageAlt %}
+
+<title>{{ pageTitle }}</title>
+<link rel="canonical" href="{{ currentUrl }}" />
+
+<meta property="og:site_name" content="{{ siteTitle }}" />
+<meta property="og:title" content="{{ pageTitle }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ currentUrl }}" />
+
+{% if config.authorHandle %}
+  <meta name="twitter:creator" content="@{{ config.authorHandle | replace('@', '') }}" />
+{% endif %}
+
+{% if pageDesc %}
+  <meta name="description" content="{{ pageDesc }}" />
+  <meta name="twitter:description" content="{{ pageDesc }}" />
+  <meta property="og:description" content="{{ pageDesc }}" />
+{% endif %}
+
+{% if image %}
+  <meta property="og:image" content="{{ image }}" />
+  <meta name="twitter:image" content="{{ image }}" />
+  <meta property="og:image:alt" content="{{ imageAlt  }}" />
+  <meta name="twitter:image:alt" content="{{ imageAlt }}" />
+{% endif %}

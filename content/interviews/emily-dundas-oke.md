@@ -34,7 +34,7 @@ It’s only in places of harm where people need to practice resilience. I’d ra
 
 **E:** Massy Books is an Indigenous owned bookstore that’s been in Chinatown for about three years. Our founding principles are centred around community activity and community care, and we hope to facilitate new collaborations and new connections in creative communities and in the world. Prior to COVID-19, we would have readings multiple times a week and host other events. There’s also an art gallery upstairs, and we formalized an arts society last year. There’s Massy Books, which is the for-profit bookstore, but there’s also Massy Arts Society, where I’m the first official staff member. Currently we’re doing online programs, and I’m hoping to branch out into off-site public art, and have more visual arts collaborations. With the Massy Arts Society, I curate the exhibitions, and I’m implementing an administrative skeleton to a new arts society. I’m looking for ways to further expand our creative practices. I’m also the media manager for the bookstore.
 
-{% contentImage "massyBooks_3of3.jpg", "Outside Massy Books store front. The glass front door displays the Massy Books logo of an owl. A shelf with books on display can be seen inside the store, and a wooden L-shaped cart on wheels is stacked with books outside the door. The cart has a sign that reads ‘pay what you can’" %}
+{% contentImage "massyBooks_3of3.jpg", "Outside Massy Books store front. The glass front door displays the Massy Books logo of an owl. A shelf with books on display can be seen inside the store, and a wooden L-shaped cart on wheels is stacked with books outside the door. The cart has a sign that reads ‘pay what you can’", true %}
 
 **CT:** What are your considerations for what and who to include in the art space, and what is the goal of the art society?
 
@@ -75,7 +75,7 @@ At Massy’s art gallery, we strive to shape the space for the community, and no
 
 **E:** One thing I really value about working at Massy is that Patricia is particularly responsive and open to suggestions or incorporating new information as it surfaces. As soon as COVID-19 happened, she was aware of various services that exist for people who experience different realities such as gendered violence to cope with COVID-19, and we strategized on how to get this information out to folks who might benefit from it. I think making these quick changes is how you achieve your long-term goal. A lot of the other spaces I’ve worked in didn’t have long-term goals that were as clear as they could be, and I think that when your long-term goals aren’t clear, like figuring out what it means to be in good relations with host nations, you end up stalling on things like how to do a land acknowledgement. But your relationship with the host nation changes all the time, and it’s really a question about how to build relationships in the day-to-day. Patricia has a very clear long-term goal that’s more about how Massy fits into the larger narrative from this particular part of the world.
 
-{% contentImage "massyBooks_2of3.jpg", "Inside of Massy Books. A beam of sunlight falls across the foor to ceiling bookshelf affixed to the wall, shedding light on book titles sorted by category." %}
+{% contentImage "massyBooks_2of3.jpg", "Inside of Massy Books. A beam of sunlight falls across the foor to ceiling bookshelf affixed to the wall, shedding light on book titles sorted by category.", true %}
 
 **CT:** Are there other ways in which Massy has had to change its practices because of COVID-19?
 
