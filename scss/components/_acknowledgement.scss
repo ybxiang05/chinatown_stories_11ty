@@ -8,12 +8,28 @@
 }
 
 .acknowledgement__logos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   .logos {
     width: 150px;
     align-items: center;
+    padding-top: 2em;
   }
 }
 
-.acknowledgement__long-list {
-  columns: 2;
+@media (min-width: 48em) {
+  .acknowledgement__logos {
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 3rem;
+  }
+  .acknowledgement__long-list {
+    columns: 2;
+  }
+}
+@media (min-width: 70em) {
+  .acknowledgement__long-list {
+    columns: 3;
+  }
 }
