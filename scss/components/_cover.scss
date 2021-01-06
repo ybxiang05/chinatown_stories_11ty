@@ -116,7 +116,7 @@
   background-color: var(--color-red);
   width: 150px;
   left: 50%;
-  bottom: 2.5rem;
+  bottom: 3.5rem;
   transform: translateX(-50%);
 }
 
@@ -132,7 +132,8 @@
     max-width: 60%;
   }
   .cover__logo {
-    bottom: 3.5rem;
+    width: 200px;
+    bottom: 4.5rem;
     right: 3.5rem;
   }
 }
@@ -164,6 +165,9 @@
 
   .cover__tree {
     max-width: 50%;
+  }
+  .cover__logo {
+    bottom: 5rem;
   }
 }
 
