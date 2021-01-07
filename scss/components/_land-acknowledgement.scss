@@ -9,7 +9,8 @@
   color: var(--color-white);
   text-align: center;
   font-size: 0.875em;
-  z-index: 2;
+  z-index: 10;
+  transform: translate3d(0, 0, 0);
 
   p {
     margin: 0;
