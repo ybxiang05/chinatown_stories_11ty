@@ -2,11 +2,14 @@
   --border-offset: 1.5rem;
   --logo-duration: 1.5s;
   --logo-ease: ease-in-out;
-  position: sticky;
+  position: relative;
   top: 0;
   overflow: hidden;
+  height: 30rem;
   min-height: 100vh;
   min-height: calc(100vh - var(--vh-offset, 0px));
+  transform: translate3d(0, 0, 0);
+  z-index: 0;
 
   &::before {
     content: "";
@@ -17,13 +20,17 @@
     right: var(--border-offset);
     border: 0.5rem solid var(--color-red);
   }
+
+  @media (min-height: 30em) {
+    position: sticky;
+  }
 }
 
 .cover__heading {
   position: absolute;
   margin: 0;
   transition-duration: var(--logo-duration);
-  z-index: 1;
+  z-index: 2;
 
   &[data-state="initial"] {
     top: 50%;
@@ -45,7 +52,8 @@
   }
 
   &[data-flipping] {
-    transform: translateX(calc(-1px * var(--dx))) translateY(calc(-1px * var(--dy)));
+    transform: translateX(calc(-1px * var(--dx)))
+      translateY(calc(-1px * var(--dy)));
     transition-duration: 0s;
   }
 }
@@ -107,7 +115,6 @@
   left: -2rem;
   bottom: 0;
   opacity: 0;
-  z-index: -1;
 }
 
 .cover__logo {
