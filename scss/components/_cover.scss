@@ -8,6 +8,7 @@
   height: 30rem;
   min-height: 100vh;
   min-height: calc(100vh - var(--vh-offset, 0px));
+  z-index: 0;
 
   &::before {
     content: "";
