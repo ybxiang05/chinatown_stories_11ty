@@ -6,6 +6,8 @@ blurb: "Mrs. Kong has been a part of the Chinatown neighbourhood for almost a qu
 img: ""
 ---
 
+<hr class="bios__hr">
+
 {% contentImage "mrsKong_1of4.jpg", "A Chinese senior in a red bowler hat walks away from the camera along Gore Street in Chinatown with a blue shopping bag in tow. The sunlight falls across her left shoulder and casts a shadow on the sidewalk. In front of her, out of focus, are pylons and a large white sign that announces the sidwalk is closed.", true %}
 
 **CT:** 您在唐人街住多久了？<br>

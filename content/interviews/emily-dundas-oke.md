@@ -6,6 +6,8 @@ blurb: "Emily Dundas Oke wears many hats. She is the curator of Massy Arts Socie
 img: ""
 ---
 
+<hr class="bios__hr">
+
 **CT:** Can you tell us a bit about who you are and what you do?
 
 **E:** I am Emily Dundas Oke, I am Cree, Métis, and Scottish. I grew up mostly in Secwepemcúl̓ecw, the unceded territories of the Secwepemc people. I moved to Vancouver, which is Musqueam, Squamish, and Tsleil-waututh territories, two years ago. Since moving there, I’ve found a very welcoming community of creatives in the visual arts. Because there’s such a beautiful connection between visual arts and creative writing communities in Vancouver, I’ve also been welcomed into literary spaces over the last year and a half, predominantly through my work in galleries, but also through the art collective Indigenous Brilliance which organizes a reading and performance series. I began organizing within the community with Patricia, the owner of Massy Books, about a year and a half ago. Patricia and Métis/Icelandic poet Jónína Kirton began the Indigenous Brilliance Reading Series, which is a collaboration between Massy Books and Room Magazine. From there, Patricia invited me to work for Massy Books as well as the Massy Arts Society. I spend most of my time in writing and visual arts spaces. I find there are a lot of folks in Vancouver who value collaboration in the same way I do. It’s a space where people are always trying new endeavours together, so I’m really grateful for that.

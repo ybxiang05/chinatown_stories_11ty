@@ -6,6 +6,8 @@ blurb: "Frontline workers have been critical to our individual and collective we
 img: ""
 ---
 
+<hr class="bios__hr">
+
 {% contentImage "corning_1of4.jpg", "Black and white photo of a newspaper image of David Wong and Derick Cheng smiling from inside the pharmacy. The article appears to be a call for Chinese-Canadians to take the flushot. Date unknown." %}
 
 **CT:** Can you tell us some of your earliest memories of being in Chinatown?

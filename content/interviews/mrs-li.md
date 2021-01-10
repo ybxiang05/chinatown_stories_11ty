@@ -6,6 +6,8 @@ blurb: "Like many transplants here, Mrs. Li fell in love with Vancouver for its 
 img: ""
 ---
 
+<hr class="bios__hr">
+
 {% contentImage "mrsLi_1of6.jpg", "Interior of the Chinese Canadian Museum of British Columbia. A long display table covered in photographs is lit from above in lamps made out of woks.", true %}
 
 **CT:** 请您告诉我们您叫什么名字，在唐人街住多久了？ <br>

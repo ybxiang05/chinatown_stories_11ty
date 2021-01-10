@@ -14,6 +14,8 @@ blurb:
 img: ""
 ---
 
+<hr class="bios__hr">
+
 {% contentImage "houseOfRice_1of11.jpg", "The locked side gate of Dr. Sun-Yat-Sen Park. Branches of a tulip tree, heavy with vibrant green leaves, fall over the white garden wall." %}
 
 **CT:** Can you tell us about your relationship to Vancouver’s Chinatown?

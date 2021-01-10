@@ -9,6 +9,8 @@ blurb:
 img: ""
 ---
 
+<hr class="bios__hr">
+
 {% contentImage "pearlLow_1of5.jpg", "Pearl Low poses in front of her mural titled Precious Fruit. In the centre of the mural is a Black person with their braids pulled up into a bun while loose strands near their temples frame their face. They smile softly against the backdrop of a yellow circle, representing the sun. They are flanked by branches of orange trees, bearing ripe fruits and vibrant green leaves." %}
 
 **CT:** What’s your relationship to Chinatown?

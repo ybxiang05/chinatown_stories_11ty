@@ -10,6 +10,8 @@ blurb: "
 img: ""
 ---
 
+<hr class="bios__hr">
+
 {% contentImage "embers_1of3.jpg", "Image of a lion dancer waiting in a yellow ceremonial lion's head costume before a parade performance.", true %}
 
 **CT:** Can you tell us about your relationship with Chinatown and how you came to work here?

@@ -7,6 +7,8 @@ blurb: "Alain Chow has always dreamed of being a restaurateur. He moved to Vanco
 img: ""
 ---
 
+<hr class="bios__hr">
+
 {% contentImage "baoBei_1of5.jpg", "Bao Bei Chinese Brasserie store front in the daytime.", true %}
 
 **CT:** What do you think of when you think of Chinatown?

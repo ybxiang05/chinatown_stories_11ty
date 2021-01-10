@@ -5,6 +5,7 @@
 .content-item__blurb {
   font-size: 1.125rem;
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 .content-item__blurb,
@@ -30,6 +31,7 @@
     margin: 3rem 0;
     font-size: 1.5em;
     font-weight: 700;
+    text-align: center;
   }
 
   & > *:first-child {

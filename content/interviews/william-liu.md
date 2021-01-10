@@ -6,6 +6,8 @@ blurb: "William Liu is the owner and operator of Kam Wai Dim Sum, a dim sum spec
 img: ""
 ---
 
+<hr class="bios__hr">
+
 {% contentImage "kamWai_1of3.jpg", "Image of Kam Wai Dim Sum storefront, taken from across the street.", true %}
 
 **CT:** Can you tell us a bit about your relationship with Chinatown?

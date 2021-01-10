@@ -6,6 +6,8 @@ blurb: "Michael Tan is the director at Chau Luen Society and a co-chair of the C
 img: ""
 ---
 
+<hr class="bios__hr">
+
 {% contentImage "chauLuen_1of5.jpg", "Front door of the Chau Luen Tower." %}
 
 **CT:** What is your relationship to Chinatown?
