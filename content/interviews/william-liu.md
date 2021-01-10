@@ -18,14 +18,14 @@ img: ""
 
 **CT:** What is your fondest memory of being in Chinatown?
 
-**W:** Growing up, my parents wanted me to go to Chinese school. The only school that had Chinese lessons was St. Francis Xavier, which is on Princess Avenue. After Chinese school, which ended at 4:30PM, I would run straight to where my mom worked, and I would sit down with her, and just drink coffee and have baked goods. Normally that would happm, and I got to spend that time with her every single day. It brought me joy every day.
+**W:** Growing up, my parents wanted me to go to Chinese school. The only school that had Chinese lessons was St. Francis Xavier, which is on Princess Avenue. After Chinese school, which ended at 4:30PM, I would run straight to where my mom worked, and I would sit down with her, and just drink coffee and have baked goods. Normally that would happen at a place like Goldstone. The fondest memory for me is going straight from school to see my mom and grabbing a bite to eat. It was a ritual for me. That was literally the first meal of the day for my mom, and I got to spend that time with her every single day. It brought me joy every day.
 
 **CT:** Do you still have the first meal with your mom now?
 
 **W:** Yeah, that still happens every day. We have that tradition. I still go with my mom to 飲咖啡 (drink coffee) around 3:30PM.
 
 **CT:** One of the key focuses of this publication is intangible heritage. When you think about Chinatown, are there other ways intangible heritage comes out?
-en at a place like Goldstone. The fondest memory for me is going straight from school to see my mom and grabbing a bite to eat. It was a ritual for me. That was literally the first meal of the day for my mo
+
 **W:** There are so many intangible elements in Chinatown that I can’t even explain. Just being here in itself is an experience. Growing up, I remember walking through the crowds when it was bustling here. The sounds you would hear, it was just so memorable. I can still hear it in my mind. People yelling at each other, except they weren’t yelling at each other, it was just so loud you had to yell to be heard. And it was such an experience growing up around that. I used to remember all the _gonggong_ _pohpohs_ who would always have candy in their pouches. As a child, you call everybody gonggong and pohpoh, and they would give you candy when you sweet talk them. So I’ve learned to always say hi to your elders and be nice to them, because you’ll get something sweet in return. When you’re walking through the crowds, there are so many smells. The butchers, the seafood mongers, all that fresh seafood. You can also smell the roasted pork going through.Those memories will always stay with me. They’re not something that can be recreated, because you just don’t see or hear that many people in Chinatown anymore, and that’s sad.
 
 **CT:** Kam Wai used to have many more dim sum chefs. What’s changed?
@@ -71,11 +71,11 @@ are trying our best to do well, even through the COVID-19 pandemic. I think real
 
 **CT:** It sounds more like supporting Chinatown as a whole, which is so important. What has been your biggest worry throughout the pandemic, and what are the ways in which you’ve been working through it?
 
-**W:** Business-wise, our sales have dropped significantly. In the last five to six years, our business has been going more in the direction of wholesales because the foot traffic in Chinatown just can’t sustain us through retail. Because of the pandemic, wholesale has dropped significantly, and we’ve had to rely on our retail business. Through the first two months, it was great because retail was doing fine, but now it’s slowed down a lot and has gone back to what it was before the pandemic. Our wholesale has dropped by 70% throughout COVID-19. We’ve been trying to build an onlin platform for people to at home so they can do store and curbside pickup, rather than having to come in and dig through everything. We may do a home delivery system in the future if there’s a demand for it.
+**W:** Business-wise, our sales have dropped significantly. In the last five to six years, our business has been going more in the direction of wholesales because the foot traffic in Chinatown just can’t sustain us through retail. Because of the pandemic, wholesale has dropped significantly, and we’ve had to rely on our retail business. Through the first two months, it was great because retail was doing fine, but now it’s slowed down a lot and has gone back to what it was before the pandemic. Our wholesale has dropped by 70% throughout COVID-19. We’ve been trying to build an online platform for people to at home so they can do store and curbside pickup, rather than having to come in and dig through everything. We may do a home delivery system in the future if there’s a demand for it.
 
 **CT:** What is your favourite item at Kam Wai, and is a must-try?
 
-**W:** Our 蝦餃 (shrimp dumplings) is the most popular item that sells out the quickest. We only have a limited amount everyday because it’s the most difficult item to make. Our 粽 (sticky rice dumplings) is our second most popular item. We make and sell a lot of it, especially in June during 粽 (sticky rice dumpling) season, both for our own retail and for other retailers. It’s something that gonggong and pohpohs come here all the time to buy because it’s so labourintensive, and nobody wants to make it at home. It really is a lot of work.
+**W:** Our 蝦餃 (shrimp dumplings) is the most popular item that sells out the quickest. We only have a limited amount everyday because it’s the most difficult item to make. Our 粽 (sticky rice dumplings) is our second most popular item. We make and sell a lot of it, especially in June during 粽 (sticky rice dumpling) season, both for our own retail and for other retailers. It’s something that _gonggongs_ and _pohpohs_ come here all the time to buy because it’s so labour-intensive, and nobody wants to make it at home. It really is a lot of work.
 
 **CT:** Speaking of sticky rice dumplings, what does resilience mean to you having had this conversation?
 

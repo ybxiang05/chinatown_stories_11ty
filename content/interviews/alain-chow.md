@@ -32,13 +32,9 @@ our ethnicity. It’s a place of belonging.
 
 **A:** It means putting in continuous effort in the face of adversity. Chinatowns around the world are all examples of resilience, especially this year. The fact that we’re all still here, not throwing in the towel and moving to another neighbourhood, means we believe in this neighbourhood, and believe in the people of this neighbourhood. I think that’s a good example of resilience. It’s been a difficult year for everyone, but working and being involved in this neighbourhood makes it feel like there’s been more adversity here than in others.
 
-{% contentImage "baoBei_3of5.jpg", "View of the bar. Liquor bottles of various colours and sizes are lined in tiers along the wall, above this display is a large tarnished mirror with a sign on the bottom left that reads 'Don't shoot the bartender, he's half shot already'. In the foreground are two paper bags with groceries. Leafy green vegetables peek out from on the of bags." %}
-
-**CT:** What does resilience mean to you?
-
-**A:** It means putting in continuous effort in the face of adversity. Chinatowns around the world are all examples of resilience, especially this year. The fact that we’re all still here, not throwing in the towel and moving to another neighbourhood, means we believe in this neighbourhood, and believe in the people of this neighbourhood. I think that’s a good example of resilience. It’s been a difficult year for everyone, but working and being involved in this neighbourhood makes it feel like there’s been more adversity here than in others.
-
 <blockquote> Resilience is not necessarily being rough, or macho, or strong, and it doesn’t mean being unbreakable. It’s being able to do something even when it’s not easy.</blockquote>
+
+{% contentImage "baoBei_3of5.jpg", "View of the bar. Liquor bottles of various colours and sizes are lined in tiers along the wall, above this display is a large tarnished mirror with a sign on the bottom left that reads 'Don't shoot the bartender, he's half shot already'. In the foreground are two paper bags with groceries. Leafy green vegetables peek out from on the of bags." %}
 
 **CT:** Marginalized communities, especially in the Downtown Eastside, tend to fall through the cracks, especially in these hard times. Since you work in the neighbourhood, what are some of the ways you’ve seen or experienced the COVID-19 pandemic?
 
