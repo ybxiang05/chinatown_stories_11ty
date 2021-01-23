@@ -3,9 +3,9 @@ title: Shay Dior & Maiden China
 subtitle: House of Rice
 order: 14
 blurb:
-  "<p>Shay Dior (Van Dang) is the founding House Mother of the House of Rice, an all Asian drag family that has operated out of Chinatown since late 2019. Shay is a seasoned performer known for their stunning visuals and consistent advocacy for Asian visibility in queer communities. Shay has lead an incredible drag career performing locally and internationally, and is the founder and co-producer of Ricecake, a queer and Asian dance party in Vancouver.</p>
+  "<p>Shay Dior (Van Dang) is the founding House Mother of the <a target='_blank' rel='noopener' href='https://www.instagram.com/houseofriceofficial'>House of Rice</a>, an all Asian drag family that has operated out of Chinatown since late 2019. Shay is a seasoned performer known for their stunning visuals and consistent advocacy for Asian visibility in queer communities. Shay has lead an incredible drag career performing locally and internationally, and is the founder and co-producer of Ricecake, a queer and Asian dance party in Vancouver.</p>
 
-  <p>Queen Maiden China (Kendell Yan) is a drag performer in the House of Rice. As a mixed-race artist, Maiden explores her relationship to her Chinese heritage in nuanced and provocative ways. Her work is a constant renegotiation of what it means to be Chinese, which asks the viewer to question the role of tradition in one’s embodiment of culture.</p>
+  <p>Queen Maiden China (Kendell Yan) is a drag performer in the House of rice. As a mixed-race artist, Maiden explores her relationship to her Chinese heritage in nuanced and provocative ways. Her work is a constant renegotiation of what it means to be Chinese, which asks the viewer to question the role of tradition in one’s embodiment of culture.</p>
 
   <p>Shay and Maiden sit down with Chinatown Today to chat about the role of drag in the fight for social justice, how art helps them reconnect with their alienated and marginalized identities, and what it’s like to reclaim Chinatown as queer people of colour.</p>
 

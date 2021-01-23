@@ -2,7 +2,7 @@
 title: Kong Tai
 subtitle: 邝太
 order: 6
-blurb: "Mrs. Kong has been a part of the Chinatown neighbourhood for almost a quarter of a century. As a member of the Chinatown Concern Group, Mrs. Kong has been adamant about speaking out against the gentrification of Chinatown. In 2017, her fiery speech at City Hall in opposition to the 105 Keefer project earned her the hearts of Chinatown youths and community organizers alike. Mrs. Kong tells <em>Chinatown Today</em> about the immediate needs of the Chinese senior communities in Chinatown, why Chinese folks should support Indigenous peoples in so-called Canada, and what she loves about hanging out with diasporic Chinese youth. If you want to read about some wholesome intergenerational bonding, this is an interview you don’t want to miss. Additionally, if you speak Cantonese or Mandarin and want to spend some quality time making dumplings, playing mahjong, and singing karaoke with cool Chinese seniors like Mrs. Kong, get in touch with the <a target='_blank' rel='noopener' href='www.yarrowsociety.ca/about'>Yarrow Intergenerational Society for Justice</a>."
+blurb: "Mrs. Kong has been a part of the Chinatown neighbourhood for almost a quarter of a century. As a member of the Chinatown Concern Group, Mrs. Kong has been adamant about speaking out against the gentrification of Chinatown. In 2017, her fiery speech at City Hall in opposition to the 105 Keefer project earned her the hearts of Chinatown youths and community organizers alike. Mrs. Kong tells <em>Chinatown Today</em> about the immediate needs of the Chinese senior communities in Chinatown, why Chinese folks should support Indigenous peoples in so-called Canada, and what she loves about hanging out with diasporic Chinese youth. If you want to read about some wholesome intergenerational bonding, this is an interview you don’t want to miss. Additionally, if you speak Cantonese or Mandarin and want to spend some quality time making dumplings, playing mahjong, and singing karaoke with cool Chinese seniors like Mrs. Kong, get in touch with the <a target='_blank' rel='noopener' href='https://www.yarrowsociety.ca/about'>Yarrow Intergenerational Society for Justice</a>."
 img: ""
 ---
 
@@ -88,7 +88,7 @@ img: ""
 **CT:** What are your thoughts around intangible heritage? It doesn’t have to be buildings or things, but what do you consider to be heritage? Some people think heritage is also people’s relationships and the foods they eat, even though the city mainly talks about historical buildings. What do you think?
 
 **K:** 當然了，文化和歷史，像紀念的地方，像文化中心，孫中山公園，那些都應該繼續發展下去等多一點人去觀看中國的文化歷史。<br>
-**K:** Of course, the culture and history, like memorials, like the Chinese Cultural Centre, and Dr. Sun Yat Sen Garden, those should continue to be developed so that more people can go visit and see Chinese culture and history.
+**K:** Of course, the culture and history, like memorials, like the Chinese Cultural Centre, and Dr. Sun Yat-Sen Garden, those should continue to be developed so that more people can go visit and see Chinese culture and history.
 
 **CT:** 你覺得政府可以如何幫我們學這些？<br>
 **CT:** How do you think the government can help us learn about these?
@@ -128,7 +128,7 @@ img: ""
 {% contentImage "mrsKong_4of4.jpg", "Close up of the hands of two people as they work together to light up joss sticks. One of them holds the bundle of yellow joss sticks in their left hand, while the other person cups their hands to protect the flame." %}
 
 **K:** 有什麼做！又不敢出門口，就在家打兩下太極拳，看戲，聽新聞。有時候走走，站站，這樣繼續下去真會骨軟。好悶，有些老人家有打電話聊天，沒有到訪。如果繼續下去真的骨都軟了。我有電視，朋友給我影帶，影碟，我沒事做就看戲。我喜歡看戲，喜歡唱卡拉 OK，但是擔心吵到別人，疫情沒有唱。我以前會和年輕人一起，做水餃吃，唱歌，但是疫情所以沒有了。<br>
-**K:** What is there to do? I am afraid of going out, so I just do some Tai Chi at home, watch some TV, listen to the news. Sometimes I walk around or stand for a bit, or else my body will become weak. When I feel bored, some seniors would phone and we chat for a bit, but no visits. If this goes on my bones will get soft. I have a TV. Friendsgave me tapes and DVDs, and I watch them when I have nothing to do. I like to watch movies and shows and sing karaoke, but I’m worried about being too loud and bothering others so I don’t sing during the pandemic. I used to spend time with young people, we would make dumplings and sing karaoke, but not during the pandemic.
+**K:** What is there to do? I am afraid of going out, so I just do some Tai Chi at home, watch some TV, listen to the news. Sometimes I walk around or stand for a bit, or else my body will become weak. When I feel bored, some seniors would phone and we chat for a bit, but no visits. If this goes on my bones will get soft. I have a TV. Friends gave me tapes and DVDs, and I watch them when I have nothing to do. I like to watch movies and shows and sing karaoke, but I’m worried about being too loud and bothering others so I don’t sing during the pandemic. I used to spend time with young people, we would make dumplings and sing karaoke, but not during the pandemic.
 
 **CT:** 和年輕人在一起開心嗎？<br>
 **CT:** Does it make you happy to spend time with young people?

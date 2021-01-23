@@ -54,7 +54,7 @@ our ethnicity. It’s a place of belonging.
 
 **A:** People come to Chinatown for both tangible and intangible things. They come to eat, do their shopping, to preserve their language, to practice martial arts, and to learn new things. This feeling of belonging, of community, is intangible. It’s not bought, it’s not quantified, but that sense of belonging in a community is felt. Seeing people of the same background and doing the same things that you’re doing, that is an intangible positive.
 
-**CT:** In Chinatown, there are businesses that have been here for generations,as well as relatively newer businesses like Bao Bei. What does it mean to be a newer business in Chinatown, and where do you see yourself fitting in the community?
+**CT:** In Chinatown, there are businesses that have been here for generations, as well as relatively newer businesses like Bao Bei. What does it mean to be a newer business in Chinatown, and where do you see yourself fitting in the community?
 
 **A:** There’s a definite incumbent versus newcomer bias, as with anything in Chinatown. Chinatown has to evolve, and I personally want a say in how it evolves. Perhaps some of the older businesses don’t see that, or are resistant to that, but it’s not about us versus them. It should be a cooperative effort. Bao Bei has been here for 10 years now, and we are part of the community. I think COVID-19 has shown us that we can always be bigger parts of the community, which is what we’ve pushed more for. I hope and want Kissa Tanto to be more involved in the community as well. It’s taken some time to build before we started remobilizing revenues towards different things, but now we are in the position where we can take care of our employees better, and we can be more active in the community. We’re looking forward to being able to do that.
 
@@ -87,6 +87,6 @@ understand that I don’t see everything from their point of view, but anecdotal
 
 **CT:** What have you been doing or making during the pandemic to take care of yourself?
 
-**A:** I’ve been spending time with my partner and her family. She is Chinese-Venezualan, and with the recent upheaval in Venezuela, her entire family has moved here and live under one roof. I spend a lot of time with them now, which gives me happiness. They’re a hospitality family as well. They own Chinese restaurants in Venezuela, so everything is centered around food. That’s totally in my wheelhouse. We eat a lot, everybody takes turns cooking, we all sit around a giant round table with a spinning centre, just like at Chinese restaurants. It’s good to spend time with them and decompress.
+**A:** I’ve been spending time with my partner and her family. She is Chinese-Venezuelan, and with the recent upheaval in Venezuela, her entire family has moved here and live under one roof. I spend a lot of time with them now, which gives me happiness. They’re a hospitality family as well. They own Chinese restaurants in Venezuela, so everything is centered around food. That’s totally in my wheelhouse. We eat a lot, everybody takes turns cooking, we all sit around a giant round table with a spinning centre, just like at Chinese restaurants. It’s good to spend time with them and decompress.
 
 {% contentImage "baoBei_5of5.jpg", "Kissa Tanto restaurant store front in the daytime, it appears to be closed.", true %}
